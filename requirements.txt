@@ -1,0 +1,7 @@
+# mp-api==0.41.2
+# pymatgen==2024.x.x
+# pandas==2.x.x
+# numpy==1.x.x
+# matplotlib==3.x.x
+# seaborn==0.x.x
+# python-dotenv==1.x.x
