@@ -1,7 +1,7 @@
 # 00 — Contexto e Objetivos do Projeto
 
 **Iniciado em:** 2026-03  
-**Pesquisador principal:** a definir  
+**Pesquisador principal:** Douglas Baquião  
 **Status:** exploração inicial
 
 ---
