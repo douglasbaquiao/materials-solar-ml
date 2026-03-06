@@ -479,6 +479,12 @@ def pipeline_completo(
 
     return resultados
 
+!git config --global user.email "douglasbaquiao@gmail.com"
+!git config --global user.name "Douglas Baquião"
+!git add src/extraction.py
+!git commit -m "Atualização com inclusão de acesso ao Github"
+!git push
+
 
 # ─── Execução direta (teste rápido) ───────────────────────────────────────────
 
