@@ -66,7 +66,7 @@ CAMPOS_SUMMARY = [
     "formation_energy_per_atom",
     "energy_above_hull",
     "is_stable",
-    "equilibrium_reaction_energy",
+    "equilibrium_reaction_energy_per_atom",
     # Magnetismo
     "total_magnetization",
     "total_magnetization_normalized_vol",
@@ -76,7 +76,7 @@ CAMPOS_SUMMARY = [
     "bulk_modulus",
     "shear_modulus",
     "universal_anisotropy",
-    "poisson_ratio",
+    "homogeneous_poisson",
     # Metadados de qualidade
     "theoretical",                              # True = sem síntese experimental reportada
     "deprecated",                               # True = versão desatualizada no MP
