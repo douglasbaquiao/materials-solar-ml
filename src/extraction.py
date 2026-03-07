@@ -202,7 +202,7 @@ def docs_para_df(docs: list) -> pd.DataFrame:
             "formation_energy_per_atom":            d.formation_energy_per_atom,
             "energy_above_hull":                    d.energy_above_hull,
             "is_stable":                            d.is_stable,
-            "equilibrium_reaction_energy":          getattr(d, "equilibrium_reaction_energy", None),
+            "equilibrium_reaction_energy_per_atom":          getattr(d, "equilibrium_reaction_energy_per_atom", None),
             # Magnetismo
             "total_magnetization":                  d.total_magnetization,
             "total_magnetization_normalized_vol":   getattr(d, "total_magnetization_normalized_vol", None),
@@ -212,7 +212,7 @@ def docs_para_df(docs: list) -> pd.DataFrame:
             "bulk_modulus_vrh":                     bulk_modulus_vrh,
             "shear_modulus_vrh":                    shear_modulus_vrh,
             "universal_anisotropy":                 getattr(d, "universal_anisotropy", None),
-            "poisson_ratio":                        getattr(d, "poisson_ratio",        None),
+            "homogeneous_poisson":                  getattr(d, "homogeneous_poisson",        None),
             # Metadados
             "theoretical":                          getattr(d, "theoretical",  None),
             "deprecated":                           getattr(d, "deprecated",   None),
