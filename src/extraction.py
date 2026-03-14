@@ -33,6 +33,15 @@ PV_GAP_MAX   = 1.8   # eV — limite superior Shockley-Queisser
 IBSC_GAP_MAX = 2.6   # eV — limite superior para candidatos a banda intermediária
 HULL_THRESH  = 0.05  # eV/átomo — limiar de quasi-estabilidade termodinâmica
 
+# ─── Janelas ampliadas — compensam subestimação sistemática DFT-GGA (~30–40%) ─
+# Usar para análise de sensibilidade e comparação com janelas originais.
+# Referência: Cs2AgBiBr6 — DFT 1.35 eV vs experimental 2.2 eV (subestimação 38%)
+PV_GAP_MIN_AMP   = 0.7   # eV — corresponderia a ~1.0 eV experimental
+PV_GAP_MAX_AMP   = 2.0   # eV — margem para GGA+U que pode superestimar
+IBSC_GAP_MIN_AMP = 1.4   # eV — alinhado com PV_GAP_MAX_AMP
+IBSC_GAP_MAX_AMP = 3.2   # eV — subestimação de 38% sobre 2.6 eV → ~3.6 eV real
+
+
 # ─── Campos extraídos do endpoint summary ────────────────────────────────────
 # Lista canônica do projeto. Qualquer campo novo discutido e aprovado
 # deve ser adicionado aqui — todos os notebooks herdam automaticamente.
@@ -340,6 +349,17 @@ def adicionar_features(df: pd.DataFrame) -> pd.DataFrame:
         nao_metal &
         (df["band_gap"] >  PV_GAP_MAX) &
         (df["band_gap"] <= IBSC_GAP_MAX)
+    )
+
+    # Janelas ampliadas (compensação de subestimação DFT)
+    df["is_pv_candidate_amp"] = (
+        ~df["is_metal"] &
+        df["band_gap"].between(PV_GAP_MIN_AMP, PV_GAP_MAX_AMP)
+    )
+    
+    df["is_ibsc_candidate_amp"] = (
+        ~df["is_metal"] &
+        df["band_gap"].between(IBSC_GAP_MIN_AMP, IBSC_GAP_MAX_AMP)
     )
 
     # ── Termodinâmica ─────────────────────────────────────────────────────────
