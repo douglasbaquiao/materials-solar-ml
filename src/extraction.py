@@ -370,13 +370,17 @@ def adicionar_features(df: pd.DataFrame) -> pd.DataFrame:
         if row["is_metal"]:
             return "Metal"
         g = row["band_gap"]
+        if g < PV_GAP_MIN_AMP:
+            return f"Gap estreito (<{PV_GAP_MIN_AMP} eV)"
         if g < PV_GAP_MIN:
-            return f"Gap estreito (<{PV_GAP_MIN} eV)"
+            return f"PV ampliado inferior ({PV_GAP_MIN_AMP}–{PV_GAP_MIN} eV)"
         if g <= PV_GAP_MAX:
-            return "Janela PV (1.0–1.8 eV)"
+            return f"Janela PV ({PV_GAP_MIN}–{PV_GAP_MAX} eV)"
         if g <= IBSC_GAP_MAX:
-            return "Janela IBSC (1.8–2.6 eV)"
-        return f"Gap largo (>{IBSC_GAP_MAX} eV)"
+            return f"Janela IBSC ({PV_GAP_MAX}–{IBSC_GAP_MAX} eV)"
+        if g <= IBSC_GAP_MAX_AMP:
+            return f"IBSC ampliado superior ({IBSC_GAP_MAX}–{IBSC_GAP_MAX_AMP} eV)"
+        return f"Gap largo (>{IBSC_GAP_MAX_AMP} eV)"
 
     df["gap_category"] = df.apply(_categorizar, axis=1)
 
