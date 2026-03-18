@@ -199,8 +199,19 @@ já está aplicado na exportação — os números acima são do subconjunto
 completo de análise, não dos candidatos exportados.
 
 ---
+## 5. Discussões após mais validação gráfica
 
-## 5. Observações para as próximas etapas
+Bi como marcador composicional de gap PV: compostos com Bi³⁺ têm gap DFT concentrado em 1.3–1.5 eV, correspondendo a ~1.9–2.1 eV experimental — janela IBSC/PV superior. Subgrupo prioritário para análise de candidatos.
+
+Mn/Fe/Co — pico em gap zero requer investigação de estado magnético: materiais com GGA+U e gap = 0 não devem ser classificados automaticamente como metais sem verificar o estado de spin. São candidatos a revisão na Fase 4.
+
+Kesteritas: GGA sistematicamente inútil para triagem por gap absoluto: a distribuição confirma que o critério de janela de gap não funciona para kesteritas sem correção HSE06. O CZTS com 1.6 eV HSE06 é o único ponto na janela PV — os demais candidatos identificados pelo filtro ampliado provavelmente têm gaps reais muito diferentes dos valores GGA.
+
+As oscilações no histograma de Mn/Fe/Co são sinal de subpopulações: separar por elemento de transição revelaria distribuições mais coerentes, útil para feature engineering na Fase 2.
+
+
+
+## 6. Observações para as próximas etapas
 
 ### Filtro adicional de hull sugerido
 O hull máximo de 6.659 eV nas perovskitas é muito alto para triagem
