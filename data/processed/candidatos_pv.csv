@@ -1,229 +1,219 @@
 material_id,formula,band_gap,is_gap_direct,energy_above_hull,formation_energy_per_atom,crystal_system,spacegroup_symbol,spacegroup_number,estrutura_esperada,regime_calc,density,efermi,theoretical,has_experimental_ref,possible_species,familia
-mp-10234,Sr2BN2F,2.5675,True,0.0,-2.023247366944444,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.84259567049275,2.0463315,False,True,"['N3-', 'Sr2+', 'F-', 'B3+']",Perovskita Dupla
-mp-1194197,La3SiN4F,1.9716,False,0.0,-2.014831175277778,Orthorhombic,Pnma,62,perovskita dupla,GGA,6.523267386014438,8.13757459,False,True,"['N3-', 'Si4+', 'La3+', 'F-']",Perovskita Dupla
-mp-17676,Sr2SnS3F2,2.0801,True,0.0,-2.467599055312499,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.103488517177864,2.59612953,False,True,"['F-', 'Sr2+', 'S2-', 'Sn4+']",Perovskita Dupla
-mp-17805,Ba2SnSe3F2,2.0002,True,0.0,-2.426220983066406,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.174669705964397,2.05826365,False,True,"['F-', 'Sn4+', 'Se2-', 'Ba2+']",Perovskita Dupla
-mp-17918,Ba2SnS3F2,2.4412000000000003,True,0.0,-2.481345934375,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.518513170832694,2.16027833,False,True,"['F-', 'Sn4+', 'S2-', 'Ba2+']",Perovskita Dupla
-mp-558123,V2Ge(O2F)2,1.876599999999999,False,0.0,-2.632902384722221,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,4.243875438865562,2.5396924,False,True,"['F-', 'O2-', 'V3+', 'Ge4+']",Perovskita Dupla
-mp-1191842,Na2VNiF7,2.4654,True,0.0,-2.91741615661442,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.314308239773642,0.25934132,False,True,"['Na+', 'V3+', 'F-', 'Ni2+']",Perovskita Dupla
-mp-1210449,Na2MgVF7,2.5192,False,0.0,-3.328581348887148,Orthorhombic,Imma,74,perovskita dupla,GGA+U,2.919889571882717,0.11371755,True,True,"['Mg2+', 'Na+', 'V3+', 'F-']",Perovskita Dupla
-mp-1214829,AlNiAg2F7,1.9697,False,0.0,-2.4922114857575752,Orthorhombic,Imma,74,perovskita dupla,GGA+U,5.056321498261953,0.73459213,True,True,"['F-', 'Ag+', 'Al3+', 'Ni2+']",Perovskita Dupla
-mp-1110608,Rb2InAgF6,1.8555,False,0.0,-2.621729162333333,Cubic,Fm-3m,225,perovskita dupla,GGA,4.463877681686978,0.11177376,True,False,"['F-', 'Rb+', 'Ag+', 'In3+']",Perovskita Dupla
-mp-1110609,Rb2GaAgF6,2.4254,False,0.0,-2.6974395524166663,Cubic,Fm-3m,225,perovskita dupla,GGA,4.525367805867886,-0.53805464,True,False,"['F-', 'Ga3+', 'Rb+', 'Ag+']",Perovskita Dupla
-mp-1111979,Cs2NaRhF6,1.9082,True,0.0,-2.620182286068965,Cubic,Fm-3m,225,perovskita dupla,GGA,4.774545738899108,0.67669327,True,False,"['Rh3+', 'Na+', 'Cs+', 'F-']",Perovskita Dupla
-mp-1112284,K2GaAgF6,2.243,False,0.0,-2.684092103366666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.750487051014523,-0.44684764,True,False,"['K+', 'Ga3+', 'Ag+', 'F-']",Perovskita Dupla
-mp-1112340,Cs2TlRhF6,1.9056,False,0.0,-2.422730792264368,Cubic,Fm-3m,225,perovskita dupla,GGA,5.495983358197139,1.22990666,True,False,"['Rh3+', 'F-', 'Cs+', 'Tl+']",Perovskita Dupla
-mp-1113588,Cs2InAgF6,2.1888,False,0.0,-2.632801037764368,Cubic,Fm-3m,225,perovskita dupla,GGA,5.056538959944953,0.34243885,True,False,"['F-', 'Ag+', 'Cs+', 'In3+']",Perovskita Dupla
-mp-1113675,Rb2NaIrF6,2.3345,True,0.0,-2.5513636096379297,Cubic,Fm-3m,225,perovskita dupla,GGA,5.052558347325151,1.02631873,True,False,"['Na+', 'Rb+', 'Ir3+', 'F-']",Perovskita Dupla
-mp-1113861,Rb2TlRhF6,1.9393,False,0.0,-2.402731809833334,Cubic,Fm-3m,225,perovskita dupla,GGA,4.952093330587864,0.62759852,True,False,"['Rh3+', 'F-', 'Rb+', 'Tl+']",Perovskita Dupla
-mp-14036,KRb2RhF6,2.1662,True,0.0,-2.625337121225,Cubic,Fm-3m,225,perovskita dupla,GGA,3.781187886268344,-0.02191313,False,True,"['Rh3+', 'K+', 'Rb+', 'F-']",Perovskita Dupla
-mp-14038,Rb2NaRhF6,1.957,True,0.0,-2.63831338763793,Cubic,Fm-3m,225,perovskita dupla,GGA,4.194013891584873,0.30250179,False,True,"['Rh3+', 'Na+', 'Rb+', 'F-']",Perovskita Dupla
-mp-14039,K2NaRhF6,2.000099999999999,True,0.0,-2.63281606158793,Cubic,Fm-3m,225,perovskita dupla,GGA,3.416447498872315,0.0582441,False,True,"['Rh3+', 'K+', 'Na+', 'F-']",Perovskita Dupla
-mp-560959,KTl2MoF6,2.4401,True,0.0,-2.535024284391668,Cubic,Fm-3m,225,perovskita dupla,GGA+U,5.490521426644849,1.05091873,False,True,"['K+', 'Mo3+', 'F-', 'Tl+']",Perovskita Dupla
-mp-561561,Cs2KRhF6,2.101299999999999,True,0.0,-2.639720883656034,Cubic,Fm-3m,225,perovskita dupla,GGA,4.389741030554179,0.51287658,False,True,"['Rh3+', 'K+', 'Cs+', 'F-']",Perovskita Dupla
-mp-989555,Tl2InGaF6,2.3602,True,0.0,-2.381190492083334,Cubic,Fm-3m,225,perovskita dupla,GGA,6.293875756726659,2.0797901,True,False,"['F-', 'Ga3+', 'In+', 'Tl+']",Perovskita Dupla
-mp-1219598,RbCrCoF6,2.1763,False,0.0,-2.85196198861111,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.603732141365901,1.69552279,True,False,"['F-', 'Rb+', 'Cr3+', 'Co2+']",Perovskita Dupla
-mp-1225824,CsVZnF6,2.296599999999999,False,0.0,-3.032418923850575,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.992496770166296,-0.11365676,True,False,"['V3+', 'F-', 'Zn2+', 'Cs+']",Perovskita Dupla
-mp-1225833,CsZnFeF6,2.2145,True,0.0,-2.776032882739463,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.332615176676145,-1.71003971,True,False,"['Fe3+', 'Zn2+', 'Cs+', 'F-']",Perovskita Dupla
-mp-1225934,CsMnVF6,1.8989,True,0.0,-3.147013363065135,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.949690817818301,0.37195259,True,False,"['Mn2+', 'F-', 'Cs+', 'V3+']",Perovskita Dupla
-mp-1225938,CsMgCoF6,1.9747,False,0.0,-2.918185277183909,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.845830728697557,0.23454529,True,False,"['Mg2+', 'Co3+', 'Cs+', 'F-']",Perovskita Dupla
-mp-1225975,CsCrCoF6,2.2148,False,0.0,-2.870498638295019,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.02183527801048,-0.11087647,True,False,"['F-', 'Cr3+', 'Cs+', 'Co2+']",Perovskita Dupla
-mp-1226043,CsFeCoF6,1.828,False,0.0,-2.679922508850574,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.081345335684319,-0.10787717,True,False,"['Fe3+', 'Cs+', 'F-', 'Co2+']",Perovskita Dupla
-mp-1228886,CsVFeF6,1.814,True,0.0,-3.014621490517241,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.865639989012002,0.40015783,True,False,"['V3+', 'F-', 'Fe2+', 'Cs+']",Perovskita Dupla
-mp-1228899,CsVNiF6,2.3655,False,0.0,-2.936362066072798,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.060309672391199,0.389465499999999,True,False,"['V3+', 'F-', 'Cs+', 'Ni2+']",Perovskita Dupla
-mp-24015,Cd2H3ClO3,2.0958,True,0.0,-1.372690263194443,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.912323149584525,-0.82131133,False,True,"['Cd2+', 'O2-', 'H+', 'Cl-']",Perovskita Dupla
-mp-558871,SrVClO3,2.189,True,0.0,-2.737379994583333,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,3.807880277654851,1.09243122,False,True,"['V5+', 'Sr2+', 'Cl-', 'O2-']",Perovskita Dupla
-mp-559481,BaVClO3,2.3925,False,0.0,-2.770726779166666,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,4.19804351608967,0.61100446,False,True,"['V5+', 'Cl-', 'O2-', 'Ba2+']",Perovskita Dupla
-mp-1202505,Cs2Re(ClO)3,2.3472,False,0.0,-2.069291566312261,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.025002053422486,-0.68162615,False,True,"['Re7+', 'O2-', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-1078258,Cs2AgBiCl6,1.8663,False,0.0,-1.510083130500001,Cubic,Fm-3m,225,perovskita dupla,GGA,4.185373900842128,0.91825946,False,True,"['Ag+', 'Cs+', 'Cl-', 'Bi3+']",Perovskita Dupla
-mp-1110810,Rb2AgBiCl6,2.06,False,0.0,-1.665001007666667,Cubic,Fm-3m,225,perovskita dupla,GGA,3.762125681987928,0.51340429,True,False,"['Rb+', 'Ag+', 'Cl-', 'Bi3+']",Perovskita Dupla
-mp-1110920,K2AgBiCl6,2.0583,False,0.0,-1.6220751856166662,Cubic,Fm-3m,225,perovskita dupla,GGA,3.176633353516061,0.49212144,True,False,"['K+', 'Ag+', 'Cl-', 'Bi3+']",Perovskita Dupla
-mp-1112527,Cs2NaTlCl6,1.9178,True,0.0,-1.8345188524023,Cubic,Fm-3m,225,perovskita dupla,GGA,3.640205022554829,-0.61141004,True,False,"['Na+', 'Tl3+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-1114002,Rb2TlSbCl6,1.955099999999999,True,0.0,-1.699869768833334,Cubic,Fm-3m,225,perovskita dupla,GGA,3.190531909922415,0.95149317,True,False,"['Rb+', 'Cl-', 'Sb3+', 'Tl+']",Perovskita Dupla
-mp-23763,SnH8(NCl3)2,2.3281,True,0.0,-0.984600160882353,Cubic,Fm-3m,225,perovskita dupla,GGA,2.449067317795603,-0.08985767,False,True,"['N3-', 'H+', 'Sn4+', 'Cl-']",Perovskita Dupla
-mp-989550,Rb2TlInCl6,2.3962,False,0.0,-1.8027955545,Cubic,Fm-3m,225,perovskita dupla,GGA,3.343130416934309,0.13009956,True,False,"['Cl-', 'Rb+', 'In3+', 'Tl+']",Perovskita Dupla
-mp-1202647,La2SbS5Br,1.8640999999999992,False,0.0,-1.738829275833333,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.740424580919051,5.05222471,False,True,"['Br-', 'S2-', 'Sb3+', 'La3+', 'S-']",Perovskita Dupla
-mp-567433,BP(IBr)3,1.9673,True,0.0,-0.66051848110119,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.374071476394194,0.57944943,False,True,"['Br-', 'I-', 'B3+', 'P3+']",Perovskita Dupla
-mp-1110566,Cs2NaAsBr6,2.559,False,0.0,-1.5512136298189652,Cubic,Fm-3m,225,perovskita dupla,GGA,3.88214034721374,-0.42281781,True,False,"['Br-', 'Na+', 'Cs+', 'As3+']",Perovskita Dupla
-mp-1113046,Cs2KInBr6,2.3584,True,0.0,-1.7453492563227,Cubic,Fm-3m,225,perovskita dupla,GGA,3.66043062327514,-0.82756999,True,False,"['Br-', 'K+', 'Cs+', 'In3+']",Perovskita Dupla
-mp-996943,Cs2NaInBr6,1.8935,True,0.0,-1.716573456735632,Cubic,Fm-3m,225,perovskita dupla,GGA,4.004339376709322,-0.306342,True,False,"['Br-', 'Na+', 'Cs+', 'In3+']",Perovskita Dupla
-mp-996944,Cs2TlInBr6,1.8255,False,0.0,-1.577039565931035,Cubic,Fm-3m,225,perovskita dupla,GGA,4.301130798573819,0.05294794,True,False,"['Br-', 'Cs+', 'In3+', 'Tl+']",Perovskita Dupla
-mp-1091394,Ba2NaIO6,2.2417,True,0.0,-2.207977574637931,Cubic,Fm-3m,225,perovskita dupla,GGA,5.697991667878675,2.80780736,False,True,"['Na+', 'O2-', 'I7+', 'Ba2+']",Perovskita Dupla
-mp-557250,HgINO3,1.9661,True,0.0,-0.7511069195833351,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.776762654018852,-0.32414168,False,True,"['Hg2+', 'I-', 'O2-', 'N5+']",Perovskita Dupla
-mp-669364,Cs3Re3(SI)4,2.4339,False,0.0,-1.236948106533252,Cubic,Fm-3m,225,perovskita dupla,GGA,4.986353013969094,1.260400269999999,False,True,"['Re3+', 'I-', 'Cs+', 'S2-']",Perovskita Dupla
-mp-1112117,Cs2RbScI6,2.3929,False,0.0,-1.633877158181035,Cubic,Fm-3m,225,perovskita dupla,GGA,3.685189216268148,0.24122835,True,False,"['I-', 'Rb+', 'Cs+', 'Sc3+']",Perovskita Dupla
-mp-1112141,Cs2NaScI6,2.2294,False,0.0,-1.608572185568968,Cubic,Fm-3m,225,perovskita dupla,GGA,4.182400345120723,0.97416667,True,False,"['Na+', 'I-', 'Cs+', 'Sc3+']",Perovskita Dupla
-mp-1112484,Cs2ScTlI6,2.4146,False,0.0,-1.481135688764369,Cubic,Fm-3m,225,perovskita dupla,GGA,4.268004205203559,0.7075,True,False,"['I-', 'Cs+', 'Sc3+', 'Tl+']",Perovskita Dupla
-mp-1112656,Cs2NaCeI6,2.3813,False,0.0,-1.6711747860689652,Cubic,Fm-3m,225,perovskita dupla,GGA,3.972466408061819,2.67946585,True,False,"['Na+', 'I-', 'Cs+', 'Ce3+']",Perovskita Dupla
-mp-1112710,Cs2KScI6,2.3591,False,0.0,-1.639713362156034,Cubic,Fm-3m,225,perovskita dupla,GGA,3.700902317308783,0.4075,True,False,"['K+', 'I-', 'Cs+', 'Sc3+']",Perovskita Dupla
-mp-1112938,Cs2ScAgI6,2.0571,False,0.0,-1.386986988597701,Cubic,Fm-3m,225,perovskita dupla,GGA,4.592240908229201,1.34041667,True,False,"['I-', 'Ag+', 'Cs+', 'Sc3+']",Perovskita Dupla
-mp-1113068,Cs2ScInI6,1.9467999999999992,True,0.0,-1.443627259097701,Cubic,Fm-3m,225,perovskita dupla,GGA,4.034538838981295,1.273385419999999,True,False,"['I-', 'Cs+', 'In+', 'Sc3+']",Perovskita Dupla
-mp-1114119,Rb2NaScI6,2.2079,False,0.0,-1.561588831137932,Cubic,Fm-3m,225,perovskita dupla,GGA,3.896424625451023,0.7675000000000001,True,False,"['Na+', 'I-', 'Rb+', 'Sc3+']",Perovskita Dupla
-mp-1112229,K2LuCuCl6,2.4709,False,0.001292203500002,-1.951118381316666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.266111578636457,1.83427629,True,False,"['K+', 'Lu3+', 'Cl-', 'Cu+']",Perovskita Dupla
-mp-1219588,RbMgCoF6,1.9239,True,0.001581457685183,-2.903187705833333,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.36514103287031,-0.28510631,True,False,"['Mg2+', 'Rb+', 'Co3+', 'F-']",Perovskita Dupla
-mp-1111965,Cs2RbIrF6,2.5113,True,0.001807461499999,-2.533594465681035,Cubic,Fm-3m,225,perovskita dupla,GGA,5.175924625848073,1.27903601,True,False,"['Ir3+', 'Rb+', 'Cs+', 'F-']",Perovskita Dupla
-mp-1111884,K2NaIrF6,2.3848000000000003,True,0.002085846000002,-2.54349559758793,Cubic,Fm-3m,225,perovskita dupla,GGA,4.321721226929771,0.95183229,True,False,"['K+', 'Na+', 'Ir3+', 'F-']",Perovskita Dupla
-mp-1110842,K2AgMoF6,2.5573,True,0.003419428625002,-2.563260360616666,Cubic,Fm-3m,225,perovskita dupla,GGA+U,3.661040876897081,-0.07888827,True,False,"['K+', 'Ag+', 'Mo3+', 'F-']",Perovskita Dupla
-mp-1111368,K2TlRhF6,1.9609,False,0.004751067416657,-2.371195808783334,Cubic,Fm-3m,225,perovskita dupla,GGA,4.282239007520329,0.57845214,True,False,"['Rh3+', 'K+', 'F-', 'Tl+']",Perovskita Dupla
-mp-1113269,Cs2NdAgI6,2.5429,False,0.005714765250002,-1.4629922338477,Cubic,Fm-3m,225,perovskita dupla,GGA,4.51968089391843,0.946874999999999,True,False,"['Nd3+', 'I-', 'Ag+', 'Cs+']",Perovskita Dupla
-mp-1113029,Cs2KTlCl6,2.3439,True,0.0064588685,-1.856659007989368,Cubic,Fm-3m,225,perovskita dupla,GGA,3.331727397399375,-1.10572215,True,False,"['K+', 'Tl3+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-1113560,Rb2ScCuCl6,1.8951,False,0.006490811699999,-2.079400378,Cubic,Fm-3m,225,perovskita dupla,GGA,3.114148050160115,1.84803941,True,False,"['Cu+', 'Rb+', 'Cl-', 'Sc3+']",Perovskita Dupla
-mp-1214805,AsPb2S3I,1.8295,False,0.006573080178571,-0.6785971396428551,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.9664054146314704,5.64636648,True,True,"['I-', 'S2-', 'Pb2+', 'As3+']",Perovskita Dupla
-mp-1112942,Cs2PrAgI6,2.5343,False,0.006615451750001,-1.461820751264368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.4642231655239,0.92041667,True,False,"['I-', 'Ag+', 'Cs+', 'Pr3+']",Perovskita Dupla
-mp-696275,SnH8(NCl3)2,2.5482,True,0.006630741764706,-0.9779694191176472,Cubic,Fm-3m,225,perovskita dupla,GGA,2.343498568403572,-0.44388123,False,True,"['N3-', 'H+', 'Sn4+', 'Cl-']",Perovskita Dupla
-mp-1114188,Rb2ScInI6,2.0229,True,0.007130817,-1.391071834666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.763756783093657,0.92800894,True,False,"['I-', 'Rb+', 'In+', 'Sc3+']",Perovskita Dupla
-mp-1112157,K2NiHgF6,1.9584,True,0.007612064999999,-2.418037982700001,Cubic,Fm-3m,225,perovskita dupla,GGA,4.632668606883517,1.05578199,True,False,"['Hg2+', 'K+', 'F-', 'Ni2+']",Perovskita Dupla
-mp-1112109,Cs2TlBiCl6,2.2018,True,0.007730570833336,-1.8018478402643687,Cubic,Fm-3m,225,perovskita dupla,GGA,3.812963474658061,0.7624608900000001,True,False,"['Cs+', 'Cl-', 'Bi3+', 'Tl+']",Perovskita Dupla
-mp-989563,Rb2NaTlCl6,1.8121,True,0.008229163000001,-1.799518091971264,Cubic,Fm-3m,225,perovskita dupla,GGA,3.259584786347759,-0.7561847700000001,True,False,"['Na+', 'Rb+', 'Tl3+', 'Cl-']",Perovskita Dupla
-mp-1114025,Rb2NaAsBr6,2.5701,False,0.008976010499999,-1.513598301387931,Cubic,Fm-3m,225,perovskita dupla,GGA,3.555778220931196,-0.6724928,True,False,"['Br-', 'Na+', 'Rb+', 'As3+']",Perovskita Dupla
-mp-1113764,KRb2IrF6,2.5351,True,0.009033736249999,-2.536821479225,Cubic,Fm-3m,225,perovskita dupla,GGA,4.51426033058561,0.80278585,True,False,"['K+', 'Rb+', 'Ir3+', 'F-']",Perovskita Dupla
-mp-1112014,Cs2NaIrF6,2.2607,True,0.0099657485,-2.536311646068965,Cubic,Fm-3m,225,perovskita dupla,GGA,5.579380871330555,1.53881651,True,False,"['Na+', 'Ir3+', 'Cs+', 'F-']",Perovskita Dupla
-mp-1114009,Rb2TlAsCl6,1.9544,True,0.010121739749999,-1.622903490583333,Cubic,Fm-3m,225,perovskita dupla,GGA,3.254043298596242,0.76393323,True,False,"['Rb+', 'Cl-', 'As3+', 'Tl+']",Perovskita Dupla
-mp-1112003,Cs2TlSbCl6,2.004299999999999,True,0.0103696795,-1.750358806264368,Cubic,Fm-3m,225,perovskita dupla,GGA,3.55683219936437,1.18648393,True,False,"['Cs+', 'Cl-', 'Sb3+', 'Tl+']",Perovskita Dupla
-mp-1111486,Rb2GdAgCl6,2.128,False,0.010413259000002,-2.172751832666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.401239003793903,-0.23591069,True,False,"['Rb+', 'Ag+', 'Cl-', 'Gd3+']",Perovskita Dupla
-mp-554803,VPbClO3,2.3699,False,0.011841643958335,-2.049469373749999,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,5.477167228707442,1.800612109999999,False,True,"['Cl-', 'V5+', 'Pb2+', 'O2-']",Perovskita Dupla
-mp-558849,CdBiS2Cl,1.916,False,0.011979506500001,-0.739189207124999,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.6374287098609965,2.81119489,False,True,"['Cl-', 'Cd2+', 'S2-', 'Bi3+']",Perovskita Dupla
-mp-1113520,Cs2ScInBr6,2.1681,True,0.012975812999999,-1.897423124097701,Cubic,Fm-3m,225,perovskita dupla,GGA,3.7676583249151134,0.4284058,True,False,"['Br-', 'Cs+', 'In+', 'Sc3+']",Perovskita Dupla
-mp-1114163,Rb2ScTlI6,2.3969,False,0.0133027315,-1.427644711333334,Cubic,Fm-3m,225,perovskita dupla,GGA,4.006923962021946,0.48083333,True,False,"['I-', 'Rb+', 'Sc3+', 'Tl+']",Perovskita Dupla
-mp-1112142,Cs2NaSbBr6,2.556,False,0.013583240500001,-1.638596316068965,Cubic,Fm-3m,225,perovskita dupla,GGA,3.833192312137865,-0.05567476,True,False,"['Br-', 'Na+', 'Cs+', 'Sb3+']",Perovskita Dupla
-mp-1112286,K2FeAgF6,2.1064,False,0.013700425625001,-2.5556410536166663,Cubic,Fm-3m,225,perovskita dupla,GGA+U,3.550135076536538,1.84798798,True,False,"['K+', 'Fe3+', 'Ag+', 'F-']",Perovskita Dupla
-mp-557410,NdTe2BrO5,1.9685,False,0.013871382808652,-2.117465268981481,Tetragonal,I4/mmm,139,perovskita dupla,GGA,6.579850326770641,4.97819925,True,False,"['Br-', 'Nd3+', 'O2-', 'Te4+']",Perovskita Dupla
-mp-1200366,H4PbI3N,2.442199999999999,False,0.014295537222221,-0.6747974627777771,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.532270399376386,3.97392887,False,True,"['N3-', 'I-', 'H+', 'Pb2+']",Perovskita Dupla
-mp-996941,Cs2RbInBr6,2.496299999999999,True,0.014949250499999,-1.7372945553477002,Cubic,Fm-3m,225,perovskita dupla,GGA,3.665433094488842,-0.95916667,True,False,"['Br-', 'Rb+', 'Cs+', 'In3+']",Perovskita Dupla
-mp-1110633,KRb2ScI6,2.339,False,0.0152074995,-1.586508878724999,Cubic,Fm-3m,225,perovskita dupla,GGA,3.454127518017046,0.21375,True,False,"['K+', 'I-', 'Rb+', 'Sc3+']",Perovskita Dupla
-mp-554475,LaNb2ClO6,2.5637,True,0.015215007440472,-3.20632168175,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.8679489004837855,2.134695879999999,False,True,"['Cl-', 'Nb5+', 'O2-', 'La3+']",Perovskita Dupla
-mp-1112502,Cs2TlAsCl6,2.0627,True,0.0153941505,-1.667370324014368,Cubic,Fm-3m,225,perovskita dupla,GGA,3.633400060971328,0.97858608,True,False,"['Cs+', 'Cl-', 'As3+', 'Tl+']",Perovskita Dupla
-mp-1110790,Rb2AgBiF6,2.5561,False,0.016627252500004,-2.542093180666666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.763147245248189,0.47734736,True,False,"['F-', 'Rb+', 'Ag+', 'Bi3+']",Perovskita Dupla
-mp-541375,CdH4Br3N,2.5461,False,0.0166317075,-0.854696339722221,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.760375150717292,-0.52540975,False,True,"['Br-', 'Cd2+', 'H+', 'N3-']",Perovskita Dupla
-mp-1112004,Cs2RbTlCl6,2.468899999999999,True,0.017584059499998,-1.844958549014368,Cubic,Fm-3m,225,perovskita dupla,GGA,3.361255225161925,-1.26140248,True,False,"['Rb+', 'Cs+', 'Cl-', 'Tl3+']",Perovskita Dupla
-mp-1111393,CsRb2RhF6,2.2145,False,0.017921141500001,-2.557088107465516,Cubic,Fm-3m,225,perovskita dupla,GGA,3.962064790207272,0.24626509,True,False,"['Rh3+', 'F-', 'Rb+', 'Cs+']",Perovskita Dupla
-mp-1111926,K2LiIrF6,2.083199999999999,True,0.018296613000002,-2.574690587783333,Cubic,Fm-3m,225,perovskita dupla,GGA,4.654594865961457,1.10166667,True,False,"['K+', 'Ir3+', 'Li+', 'F-']",Perovskita Dupla
-mp-1110611,Rb2CoAgF6,2.009299999999999,False,0.018885782999999,-2.356622655666667,Cubic,Fm-3m,225,perovskita dupla,GGA,4.711270625440298,1.1599839,True,False,"['Ag+', 'Rb+', 'Co3+', 'F-']",Perovskita Dupla
-mp-1111799,Rb2ScAgI6,2.1449,False,0.01990586225,-1.343710374166666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.298874141606524,1.11937902,True,False,"['I-', 'Rb+', 'Ag+', 'Sc3+']",Perovskita Dupla
-mp-1219590,RbMgNiF6,2.045,False,0.020472682222221,-2.833308671388889,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.420160732081892,-2.04658901,True,False,"['Mg2+', 'Rb+', 'F-', 'Ni3+']",Perovskita Dupla
-mp-1112931,Cs2YAgI6,2.459399999999999,False,0.02086180725,-1.4560710330977011,Cubic,Fm-3m,225,perovskita dupla,GGA,4.482073488357927,1.02708333,True,False,"['Y3+', 'Ag+', 'Cs+', 'I-']",Perovskita Dupla
-mp-1112015,K2ScInBr6,2.3286,True,0.020903155,-1.8008301506166662,Cubic,Fm-3m,225,perovskita dupla,GGA,3.070001557182927,-0.0355566,True,False,"['Br-', 'K+', 'In+', 'Sc3+']",Perovskita Dupla
-mp-1111835,Cs2LiSbBr6,2.3396,False,0.022989746500001,-1.629354310264367,Cubic,Fm-3m,225,perovskita dupla,GGA,4.067383612777452,0.26708333,True,False,"['Br-', 'Cs+', 'Li+', 'Sb3+']",Perovskita Dupla
-mp-1112793,Cs2KAsI6,1.8435,False,0.024127396499999,-1.1929861404060351,Cubic,Fm-3m,225,perovskita dupla,GGA,3.819650679012692,0.67483576,True,False,"['K+', 'I-', 'Cs+', 'As3+']",Perovskita Dupla
-mp-1110899,K2LiSbBr6,2.3188,False,0.02496014575,-1.5529713907833331,Cubic,Fm-3m,225,perovskita dupla,GGA,3.365901730612632,0.066875,True,False,"['Br-', 'K+', 'Li+', 'Sb3+']",Perovskita Dupla
-mp-765310,Li5Ni2O2F5,2.1942,False,0.025148793214285,-2.583416931190477,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.739835679155161,3.70211956,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1111885,Cs2NdCuBr6,2.2431,False,0.025492302749998,-1.840502089681035,Cubic,Fm-3m,225,perovskita dupla,GGA,4.468213781880857,1.35298443,True,False,"['Br-', 'Nd3+', 'Cs+', 'Cu+']",Perovskita Dupla
-mp-1112659,Cs2NaBiI6,2.107399999999999,False,0.025544727000002,-1.285656405068965,Cubic,Fm-3m,225,perovskita dupla,GGA,4.267109076558455,0.63375,True,False,"['Na+', 'I-', 'Cs+', 'Bi3+']",Perovskita Dupla
-mp-1111449,Cs2SmCuCl6,2.5700000000000003,False,0.026521445250002,-2.026102832499998,Cubic,Fm-3m,225,perovskita dupla,GGA,3.970750382168495,2.11239335,True,False,"['Cu+', 'Sm3+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-1113355,Cs2PrCuBr6,2.1974,False,0.026963824749998,-1.8372968130977,Cubic,Fm-3m,225,perovskita dupla,GGA,4.392772423526979,1.3384586,True,False,"['Br-', 'Cu+', 'Cs+', 'Pr3+']",Perovskita Dupla
-mp-753283,Li6NiOF6,1.8953,False,0.026964504642856,-2.8596973046428573,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.139770698097829,3.47074901,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1114017,Rb2NaInBr6,2.0049,True,0.026982653499999,-1.677307463304596,Cubic,Fm-3m,225,perovskita dupla,GGA,3.6788202341627,-0.64342648,True,False,"['Br-', 'Na+', 'Rb+', 'In3+']",Perovskita Dupla
-mp-1110891,K2NaSbBr6,2.5456,False,0.02880736275,-1.54895967358793,Cubic,Fm-3m,225,perovskita dupla,GGA,3.145589490929698,-0.34289979,True,False,"['Br-', 'K+', 'Na+', 'Sb3+']",Perovskita Dupla
-mp-1112140,Cs2NaSbI6,1.8895,False,0.029831639,-1.237659143068965,Cubic,Fm-3m,225,perovskita dupla,GGA,4.078793024600928,0.91416667,True,False,"['Na+', 'I-', 'Cs+', 'Sb3+']",Perovskita Dupla
-mp-1113207,Cs2TbCuCl6,2.5342,False,0.029859650749997,-2.03379767004167,Cubic,Fm-3m,225,perovskita dupla,GGA,3.95561645284098,2.04908633,True,False,"['Cu+', 'Cs+', 'Cl-', 'Tb3+']",Perovskita Dupla
-mp-1110700,Rb2NaSbBr6,2.5605,False,0.031378415750005,-1.59448837963793,Cubic,Fm-3m,225,perovskita dupla,GGA,3.506698022734248,-0.3046972,True,False,"['Br-', 'Na+', 'Rb+', 'Sb3+']",Perovskita Dupla
-mp-1114132,Rb2ScInBr6,2.4052,True,0.031397746499999,-1.848960110666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.424577555584463,-0.04500131,True,False,"['Br-', 'Rb+', 'In+', 'Sc3+']",Perovskita Dupla
-mp-1112838,Cs2LiBiI6,1.9323,False,0.031421520000002,-1.274236002264368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.534272784846485,1.04708333,True,False,"['I-', 'Cs+', 'Li+', 'Bi3+']",Perovskita Dupla
-mp-1114239,Na2LiIrF6,2.1677,True,0.031441088600001,-2.456846318566668,Cubic,Fm-3m,225,perovskita dupla,GGA,4.6421724115213685,1.5483333300000002,True,False,"['Na+', 'Ir3+', 'Li+', 'F-']",Perovskita Dupla
-mp-753377,Li5NiOF5,2.0926,False,0.031453041250002,-2.808859420555555,Tetragonal,P4/mmm,123,perovskita dupla,GGA+U,3.240486930909598,2.37972687,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1111618,K2NaScI6,2.1954,False,0.031965999499999,-1.515416539087931,Cubic,Fm-3m,225,perovskita dupla,GGA,3.462180221156642,0.7475,True,False,"['K+', 'Na+', 'I-', 'Sc3+']",Perovskita Dupla
-mp-1110708,Rb2LiSbBr6,2.3274,False,0.032909101750003,-1.593122193833333,Cubic,Fm-3m,225,perovskita dupla,GGA,3.7432945028331552,0.066875,True,False,"['Br-', 'Rb+', 'Li+', 'Sb3+']",Perovskita Dupla
-mp-1112412,Rb2TmCuCl6,2.4353,False,0.032943498249999,-2.138892495500001,Cubic,Fm-3m,225,perovskita dupla,GGA,3.682607247926253,1.83016369,True,False,"['Tm3+', 'Cu+', 'Rb+', 'Cl-']",Perovskita Dupla
-mp-1112131,Cs2RbAsI6,2.286,False,0.0334988765,-1.188786892431035,Cubic,Fm-3m,225,perovskita dupla,GGA,3.817249234008913,0.30142951,True,False,"['I-', 'Rb+', 'Cs+', 'As3+']",Perovskita Dupla
-mp-1111035,Rb2LuCuCl6,2.436699999999999,False,0.03367737125,-2.137519841166666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.758242560955795,1.82400385,True,False,"['Cu+', 'Rb+', 'Cl-', 'Lu3+']",Perovskita Dupla
-mp-1113710,Rb2LiIrF6,2.024,True,0.034208538250002,-2.5597485698333333,Cubic,Fm-3m,225,perovskita dupla,GGA,5.385381863478384,1.06833333,True,False,"['F-', 'Rb+', 'Ir3+', 'Li+']",Perovskita Dupla
-mp-753703,Li3Ni2O2F3,2.5234,False,0.034348318000001,-2.351740538499999,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,4.199766018846456,3.34097933,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1113935,Rb2TiHgF6,2.3262,True,0.034775874416666,-3.086033571083334,Cubic,Fm-3m,225,perovskita dupla,GGA,3.87593443918012,-0.9975415,True,False,"['Ti3+', 'F-', 'Rb+', 'Hg+']",Perovskita Dupla
-mp-1112413,Rb2YCuBr6,2.340499999999999,False,0.035859775499999,-1.8092656325,Cubic,Fm-3m,225,perovskita dupla,GGA,4.004623823270957,1.07531809,True,False,"['Br-', 'Cu+', 'Y3+', 'Rb+']",Perovskita Dupla
-mp-1574529,Li2MnO2F,2.3681,False,0.036284853333333,-2.458547754099616,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,3.4946673750348163,1.44670941,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
-mp-1114031,KRb2TlCl6,2.416,True,0.036305611333332,-1.810011363558334,Cubic,Fm-3m,225,perovskita dupla,GGA,2.962873302006403,-1.41833692,True,False,"['K+', 'Rb+', 'Tl3+', 'Cl-']",Perovskita Dupla
-mp-1111616,K2NaTlCl6,1.9894,True,0.036829457,-1.759131810921265,Cubic,Fm-3m,225,perovskita dupla,GGA,2.821225948682101,-0.94729992,True,False,"['K+', 'Na+', 'Tl3+', 'Cl-']",Perovskita Dupla
-mp-1110750,Rb2LiCeI6,2.1287,False,0.036895959499999,-1.613170874833333,Cubic,Fm-3m,225,perovskita dupla,GGA,3.951947577118364,2.73242938,True,False,"['I-', 'Rb+', 'Li+', 'Ce3+']",Perovskita Dupla
-mp-1114234,Na2LiRhF6,1.843799999999999,True,0.037087602999998,-2.551669323609194,Cubic,Fm-3m,225,perovskita dupla,GGA,3.543170186676559,0.58833333,True,False,"['Rh3+', 'Na+', 'Li+', 'F-']",Perovskita Dupla
-mp-1113288,Rb2ErCuCl6,2.2131,False,0.038193376074998,-2.1385495995,Cubic,Fm-3m,225,perovskita dupla,GGA,3.670036517570337,2.08724438,True,False,"['Er3+', 'Cu+', 'Rb+', 'Cl-']",Perovskita Dupla
-mp-1112159,K2ScCuCl6,1.877199999999999,False,0.038786515333338,-1.903441415916661,Cubic,Fm-3m,225,perovskita dupla,GGA,2.595464797050145,1.8805939,True,False,"['K+', 'Cu+', 'Cl-', 'Sc3+']",Perovskita Dupla
-mp-1112958,Cs2DyCuCl6,2.2443,False,0.039144086999998,-2.02527425424999,Cubic,Fm-3m,225,perovskita dupla,GGA,4.008590838110714,2.32980979,True,False,"['Cu+', 'Cs+', 'Cl-', 'Dy3+']",Perovskita Dupla
-mp-1205743,NaSr2IO6,2.417399999999999,True,0.03933458150002,-2.17902850863793,Cubic,Fm-3m,225,perovskita dupla,GGA,5.037334894846253,3.08777393,True,True,"['Na+', 'O2-', 'Sr2+', 'I7+']",Perovskita Dupla
-mp-1112917,Cs2ErCuCl6,2.0815,False,0.039840635750001,-2.024936442333333,Cubic,Fm-3m,225,perovskita dupla,GGA,4.072198428904191,2.31766522,True,False,"['Cu+', 'Er3+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-1114115,Rb2TlInBr6,1.8455,False,0.039859327999999,-1.5276207525,Cubic,Fm-3m,225,perovskita dupla,GGA,3.989629910713235,-0.13910196,True,False,"['Br-', 'Rb+', 'In3+', 'Tl+']",Perovskita Dupla
-mp-1111447,Cs2TmCuCl6,2.436499999999999,False,0.039892031249992,-2.02414600125,Cubic,Fm-3m,225,perovskita dupla,GGA,4.123354709575503,2.09947309,True,False,"['Tm3+', 'Cu+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-559963,AlS2NCl4,2.1196,True,0.040082541484376,-0.8490515358984381,Orthorhombic,Pnma,62,perovskita dupla,GGA,1.7219487414084091,-0.30208325,False,True,"['S2+', 'N3-', 'Cl-', 'Al3+']",Perovskita Dupla
-mp-753143,Li4NiOF4,2.2518,False,0.040124232,-2.735299143333333,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.363070076753036,2.68808393,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-989538,Cs2InBiF6,2.2862,True,0.040167208499997,-2.682546414597701,Cubic,Fm-3m,225,perovskita dupla,GGA,4.8702928408930735,1.99660654,True,False,"['F-', 'Cs+', 'In+', 'Bi3+']",Perovskita Dupla
-mp-1112909,Cs2YCuCl6,2.5338000000000003,False,0.040192690500004,-2.022476435000006,Cubic,Fm-3m,225,perovskita dupla,GGA,3.576343746087239,2.07348403,True,False,"['Cu+', 'Y3+', 'Cs+', 'Cl-']",Perovskita Dupla
-mp-753092,Li4Ni3O3F4,2.168199999999999,False,0.040360575357142,-2.290109064166667,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,4.327492339466588,4.31462963,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1113201,Cs2InGaCl6,1.9897,False,0.041652341166667,-1.800372903347701,Cubic,Fm-3m,225,perovskita dupla,GGA,3.3668909034348022,0.63972944,True,False,"['Cl-', 'Ga+', 'Cs+', 'In3+']",Perovskita Dupla
-mp-1113403,Rb2DyCuCl6,2.5201,False,0.042384823369999,-2.135849725666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.588577918214867,1.84011382,True,False,"['Cu+', 'Rb+', 'Cl-', 'Dy3+']",Perovskita Dupla
-mp-1111373,K2TlFeF6,2.5608,False,0.042434784374995,-2.6736153767833333,Cubic,Fm-3m,225,perovskita dupla,GGA+U,3.899019693712365,2.30149518,True,False,"['K+', 'Fe3+', 'F-', 'Tl+']",Perovskita Dupla
-mp-753733,Li2MnO2F,2.2217,False,0.042750900416666,-2.452081707016283,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.377667538000174,1.3037581,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
-mp-1113539,Cs2CoAgF6,1.8768,False,0.043119591874998,-2.318850262097701,Cubic,Fm-3m,225,perovskita dupla,GGA+U,5.071111359856548,0.91977695,True,False,"['F-', 'Co3+', 'Ag+', 'Cs+']",Perovskita Dupla
-mp-1114122,KRb2InBr6,2.3739,True,0.0439912485,-1.696922905891666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.51719140928488,-1.10290869,True,False,"['Br-', 'K+', 'Rb+', 'In3+']",Perovskita Dupla
-mp-1111577,K2TlInCl6,2.5682,False,0.044406814499996,-1.75523488945,Cubic,Fm-3m,225,perovskita dupla,GGA,2.936699617769308,-0.06395879,True,False,"['Cl-', 'K+', 'In3+', 'Tl+']",Perovskita Dupla
-mp-1112416,Rb2TbCuCl6,2.5313,False,0.044782863109999,-2.135208446166666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.5366863561841333,1.84462226,True,False,"['Cu+', 'Rb+', 'Cl-', 'Tb3+']",Perovskita Dupla
-mp-1112709,Cs2KSbI6,2.441,False,0.045214521000001,-1.266265636656034,Cubic,Fm-3m,225,perovskita dupla,GGA,3.735312359335545,0.35126437,True,False,"['K+', 'I-', 'Cs+', 'Sb3+']",Perovskita Dupla
-mp-752750,Li3Ni4O4F3,2.241,False,0.045635623571428,-2.006737931071428,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,4.899204951087929,5.06420951,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-759179,LiNiOF,2.3596,False,0.04565817875,-2.145763418333333,Tetragonal,P4/mmm,123,perovskita dupla,GGA+U,4.548914571450009,3.65509883,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1111240,K2NaAsBr6,2.5764,False,0.0458547135,-1.47256193633793,Cubic,Fm-3m,225,perovskita dupla,GGA,3.183066884826823,-0.67840738,True,False,"['Br-', 'K+', 'Na+', 'As3+']",Perovskita Dupla
-mp-1113862,Rb2TlIrF6,2.2131,False,0.046076442187496,-2.309065975833336,Cubic,Fm-3m,225,perovskita dupla,GGA,5.8852529325616185,1.3357393,True,False,"['F-', 'Rb+', 'Ir3+', 'Tl+']",Perovskita Dupla
-mp-1112551,Cs2TlSbF6,2.4839,True,0.046435319749999,-2.678376275264368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.926344984111259,1.93815288,True,False,"['F-', 'Cs+', 'Sb3+', 'Tl+']",Perovskita Dupla
-mp-1112016,K2ScInI6,1.9864,True,0.046755988999999,-1.341102198616666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.477726381309541,0.913548599999999,True,False,"['K+', 'I-', 'In+', 'Sc3+']",Perovskita Dupla
-mp-752550,Li3NiOF3,2.1079,False,0.047341250625,-2.630748494999999,Tetragonal,P4/mmm,123,perovskita dupla,GGA+U,3.596801994408232,2.84062604,True,False,"['F-', 'O2-', 'Li+', 'Ni2+']",Perovskita Dupla
-mp-1110613,Rb2AgAsF6,2.326699999999999,False,0.047515893833335,-2.429388063416666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.201234235320557,0.57402168,True,False,"['F-', 'Rb+', 'Ag+', 'As3+']",Perovskita Dupla
-mp-1111878,Cs2YCuBr6,2.0386,False,0.048935451749996,-1.841111695931034,Cubic,Fm-3m,225,perovskita dupla,GGA,4.368130031213536,1.4765217,True,False,"['Br-', 'Cu+', 'Y3+', 'Cs+']",Perovskita Dupla
-mp-1110816,Rb2YAgI6,2.4884999999999997,False,0.049967168749999,-1.408657044666666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.195493833752545,0.80041667,True,False,"['Y3+', 'Rb+', 'Ag+', 'I-']",Perovskita Dupla
-mp-1219529,Sb3Cl9OF4,2.2549,False,0.0,-1.6527307152941182,Triclinic,P-1,2,relacionada,GGA,2.654922683859657,-1.61497371,True,False,"['Sb5+', 'O2-', 'Cl-', 'F-']",Perovskita Dupla
-mp-554702,NaZr2NiF11,1.8738,False,0.0,-3.577501869758632,Monoclinic,C2/m,12,relacionada,GGA+U,3.75056637586831,-1.14166127,False,True,"['Na+', 'Zr4+', 'F-', 'Ni2+']",Perovskita Dupla
-mp-558441,NaZr2VF11,2.163,False,0.0,-3.727254019091953,Monoclinic,C2/m,12,relacionada,GGA+U,3.372181864945113,0.89795185,False,True,"['Na+', 'Zr4+', 'V2+', 'F-']",Perovskita Dupla
-mp-18518,Rb2NaMn3F12,1.8271,False,0.0,-2.939748370565135,Triclinic,P-1,2,relacionada,GGA+U,3.652049530045886,-1.47087492,False,True,"['Na+', 'Rb+', 'F-', 'Mn3+']",Perovskita Dupla
-mp-556523,LaPb6ClO7,2.1393,False,0.0,-1.904376837999999,Monoclinic,C2/m,12,relacionada,GGA,7.518947831352811,3.6215832,False,True,"['Cl-', 'O2-', 'La3+', 'Pb2+']",Perovskita Dupla
-mp-559032,GdMoClO4,2.4595,False,0.0,-2.669957121428571,Monoclinic,C2/m,12,relacionada,GGA,4.541805743875453,0.25942077,False,True,"['Cl-', 'O2-', 'Mo6+', 'Gd3+']",Perovskita Dupla
-mp-1193300,ReS2ClO9,2.396,False,0.0,-1.709440076346154,Triclinic,P-1,2,relacionada,GGA,3.294532818408922,-1.43187782,False,True,"['Re7+', 'O2-', 'S6+', 'Cl-']",Perovskita Dupla
-mp-1077904,CdPb2(ClO)2,2.435499999999999,False,0.0,-1.552727685714284,Monoclinic,C2/m,12,relacionada,GGA,6.439247833462596,2.33507838,False,True,"['Cl-', 'Cd2+', 'O2-', 'Pb2+']",Perovskita Dupla
-mp-23853,CoH4(ClO)2,2.573,False,0.0,-1.233406687222222,Monoclinic,C2/m,12,relacionada,HSE06,2.424990703794188,-0.27965428,False,True,"['O2-', 'H+', 'Cl-', 'Co2+']",Perovskita Dupla
-mp-546862,HgPb2(ClO)2,2.247799999999999,False,0.0,-1.356247624642857,Monoclinic,C2/m,12,relacionada,GGA,7.465152115547622,2.70593647,False,True,"['Hg2+', 'O2-', 'Pb2+', 'Cl-']",Perovskita Dupla
-mp-554952,Te2Pb3(ClO3)2,2.5593999999999992,True,0.0,-1.587321612179486,Monoclinic,C2/m,12,relacionada,GGA,6.714827447343146,3.59727489,False,True,"['Cl-', 'O2-', 'Te4+', 'Pb2+']",Perovskita Dupla
-mp-560005,TlRe3(S2Cl)2,1.8577,False,0.0,-1.029938029833332,Triclinic,P-1,2,relacionada,GGA,6.360010470049294,3.26739368,False,True,"['Cl-', 'Re3+', 'S2-', 'Tl+']",Perovskita Dupla
-mp-541275,Cs2U(Cl2O)2,2.3217,False,0.0,-2.698006853256704,Monoclinic,C2/m,12,relacionada,GGA,3.987540841168678,-0.43711851,False,True,"['O2-', 'Cs+', 'Cl-', 'U6+']",Perovskita Dupla
-mp-560513,Gd3Si2Cl5O6,2.531,True,0.0,-3.214715929687502,Monoclinic,C2/m,12,relacionada,GGA,4.065901502759885,0.09412832,False,True,"['Cl-', 'O2-', 'Si4+', 'Gd3+']",Perovskita Dupla
-mp-568252,Rb2Hg2PdCl8,1.8952,False,0.0,-1.405880106923077,Monoclinic,C2/m,12,relacionada,HSE06,3.961344852930524,-0.58339568,False,True,"['Hg2+', 'Rb+', 'Pd2+', 'Cl-']",Perovskita Dupla
-mp-1192462,DyMoBrO4,1.8414,False,0.0,-2.592985715595237,Triclinic,P-1,2,relacionada,GGA+U,5.252105999204226,1.42505731,False,True,"['Br-', 'O2-', 'Mo6+', 'Dy3+']",Perovskita Dupla
-mp-1192793,PrMoBrO4,2.1545,False,0.0,-2.581199796309524,Triclinic,P-1,2,relacionada,GGA+U,4.540113891863944,0.98970851,False,True,"['Br-', 'O2-', 'Mo6+', 'Pr3+']",Perovskita Dupla
-mp-1193284,NdMoBrO4,2.0897,False,0.0,-2.585778148214286,Triclinic,P-1,2,relacionada,GGA+U,4.653382853210901,1.02632602,False,True,"['Br-', 'Nd3+', 'O2-', 'Mo6+']",Perovskita Dupla
-mp-1193567,TbMoBrO4,1.8562999999999992,False,0.0,-2.595382681309524,Triclinic,P-1,2,relacionada,GGA+U,5.156931842820571,1.37984951,False,True,"['Br-', 'O2-', 'Mo6+', 'Tb3+']",Perovskita Dupla
-mp-1193901,HoMoBrO4,1.8564,False,0.0,-2.591267165714285,Triclinic,P-1,2,relacionada,GGA+U,5.337984855438695,1.50266809,False,True,"['Br-', 'O2-', 'Ho3+', 'Mo6+']",Perovskita Dupla
-mp-1194049,SmMoBrO4,2.0128,False,0.0,-2.589357923928572,Triclinic,P-1,2,relacionada,GGA+U,4.863781213770151,1.04077738,False,True,"['Br-', 'O2-', 'Sm3+', 'Mo6+']",Perovskita Dupla
-mp-1194158,ErMoBrO4,1.9042,False,0.0,-2.593221584999999,Triclinic,P-1,2,relacionada,GGA+U,5.40638066058349,1.39229779,False,True,"['Br-', 'O2-', 'Er3+', 'Mo6+']",Perovskita Dupla
-mp-1194343,TmMoBrO4,1.9246,False,0.0,-2.595650299285715,Triclinic,P-1,2,relacionada,GGA+U,5.459560148494112,1.37424628,False,True,"['Tm3+', 'Br-', 'Mo6+', 'O2-']",Perovskita Dupla
-mp-1193128,Te2Pb3(BrO3)2,2.5124,True,0.0,-1.52799022102564,Monoclinic,C2/m,12,relacionada,GGA,6.953829047621007,3.43197055,False,True,"['Br-', 'O2-', 'Te4+', 'Pb2+']",Perovskita Dupla
-mp-1192820,Mn2Sb3I3O5,2.017899999999999,False,0.0,-1.537437366604774,Triclinic,P-1,2,relacionada,GGA+U,4.976229227324467,2.9231701,False,True,"['I-', 'Mn2+', 'O2-', 'Sb3+']",Perovskita Dupla
-mp-1199909,Fe3Sb5(IO3)3,2.5007,False,0.0,-1.49988522975,Triclinic,P-1,2,relacionada,GGA+U,5.08766997229215,5.7045865,False,True,"['I-', 'Fe2+', 'O2-', 'Sb3+']",Perovskita Dupla
-mp-1200560,CsAu(IO3)4,1.934499999999999,False,0.0,-0.9177759949808432,Triclinic,P-1,2,relacionada,GGA,5.131208956332017,1.36928143,False,True,"['I5+', 'O2-', 'Au3+', 'Cs+']",Perovskita Dupla
-mp-556374,K2U3(IO5)4,1.8921,False,0.0,-2.167465826362081,Triclinic,P-1,2,relacionada,GGA,5.620929002581434,1.9846897,False,True,"['I5+', 'K+', 'O2-', 'U6+']",Perovskita Dupla
-mp-559254,Rb2U3(IO5)4,1.9066,False,0.0,-2.16585455637931,Triclinic,P-1,2,relacionada,GGA,5.410565673522361,1.94231998,False,True,"['I5+', 'O2-', 'Rb+', 'U6+']",Perovskita Dupla
-mp-1196166,CuP4S3Br,1.933499999999999,False,0.000516164166665,-0.445553596507934,Triclinic,P-1,2,relacionada,GGA,2.7048131298012663,4.30565265,False,True,"['Br-', 'Cu+', 'S2-', 'P1.50+']",Perovskita Dupla
-mp-1209597,Rb2LiMn3F12,1.903,False,0.000789492222223,-2.94170712456258,Triclinic,P-1,2,relacionada,GGA+U,3.418834825000822,-1.31284469,True,True,"['F-', 'Rb+', 'Li+', 'Mn3+']",Perovskita Dupla
-mp-1191023,Bi3Te4(ClO2)5,2.4347,False,0.002006397244317,-1.530257106212122,Monoclinic,C2/m,12,relacionada,GGA,5.698274114714106,3.26323878,False,True,"['O2-', 'Te4+', 'Cl-', 'Bi3+']",Perovskita Dupla
-mp-25436,TiPO4F,2.4042,False,0.004674843571429,-3.162325138996599,Triclinic,P-1,2,relacionada,GGA,2.97843188426845,0.42534947,True,False,"['F-', 'O2-', 'P5+', 'Ti4+']",Perovskita Dupla
-mp-560192,TaP4(SCl)5,2.1827,False,0.006358940114579,-1.011215173226983,Triclinic,P-1,2,relacionada,GGA,2.355191350661132,0.20957025,False,True,"['S2-', 'Ta5+', 'Cl-', 'P3+', 'P2+']",Perovskita Dupla
-mp-557016,TaP4S6Cl5,2.264399999999999,False,0.006891665989582,-0.990209055369046,Triclinic,P-1,2,relacionada,GGA,2.335503592691072,0.14922617,False,True,"['P4+', 'S2-', 'Ta4+', 'Cl-', 'P3+']",Perovskita Dupla
-mp-555967,TaP4S4Cl5,1.8505,False,0.007914953046875,-1.029706076493196,Triclinic,P-1,2,relacionada,GGA,2.320655008808497,0.27204011,False,True,"['Ta5+', 'S2-', 'P2+', 'Cl-']",Perovskita Dupla
-mp-1105287,Ti4Pb2O9F2,2.3006,False,0.008852272205887,-3.124555092843137,Monoclinic,C2/m,12,relacionada,GGA,5.954853818776503,3.16040322,False,True,"['F-', 'O2-', 'Pb2+', 'Ti4+']",Perovskita Dupla
-mp-555084,GdWClO4,2.5471,False,0.009864430714285,-2.736214926428571,Monoclinic,C2/m,12,relacionada,GGA+U,5.594359495933487,0.21180672,False,True,"['W6+', 'Cl-', 'O2-', 'Gd3+']",Perovskita Dupla
-mp-1104492,FeSO4F,2.0927,True,0.010336693174605,-1.975669599642857,Triclinic,P-1,2,relacionada,GGA+U,3.26550079622076,0.39087856,True,True,"['Fe3+', 'O2-', 'S6+', 'F-']",Perovskita Dupla
-mp-1193954,LiH6IO7,2.36,True,0.014060105333332,-1.215912313722222,Triclinic,P-1,2,relacionada,GGA,2.907024876545368,-0.18112483,False,True,"['I7+', 'O2-', 'H+', 'Li+']",Perovskita Dupla
-mp-1194285,LuMoBrO4,1.9634,False,0.017268155952379,-2.5923890388095243,Triclinic,P-1,2,relacionada,GGA+U,5.597845979686262,1.35524532,False,True,"['Br-', 'O2-', 'Lu3+', 'Mo6+']",Perovskita Dupla
-mp-766881,H7SIO10,2.3634,False,0.022294259013156,-1.2049967805921051,Triclinic,P-1,2,relacionada,GGA,2.612858365922062,-0.74866785,False,True,"['O2-', 'H+', 'S6+', 'I7+']",Perovskita Dupla
-mp-1290585,LiVOF2,1.9785,False,0.022814015749995,-2.963131207666668,Triclinic,P-1,2,relacionada,GGA+U,3.223514228917897,1.1623343,True,False,"['F-', 'O2-', 'V3+', 'Li+']",Perovskita Dupla
-mp-557464,MoSeCl7O,2.4435,False,0.032780071000001,-1.130990043734375,Triclinic,P-1,2,relacionada,GGA,2.412262153694383,-0.85522941,False,True,"['Se4+', 'O2-', 'Mo5+', 'Cl-']",Perovskita Dupla
-mp-760242,LiVOF4,2.1969,False,0.036180827619048,-2.826739824761905,Triclinic,P-1,2,relacionada,GGA,2.633000595827059,-2.80106673,True,False,"['F-', 'V5+', 'Li+', 'O2-']",Perovskita Dupla
-mp-755474,Li2Fe2OF6,2.3338,False,0.043707411515149,-2.665471211060605,Triclinic,P-1,2,relacionada,GGA+U,3.4278247437148472,-0.24737792,True,False,"['Fe3+', 'O2-', 'Li+', 'F-']",Perovskita Dupla
-mp-761250,Li5FeO3F,2.5771,False,0.046587690750002,-2.153874175916667,Monoclinic,C2/m,12,relacionada,GGA+U,2.4841677905132142,0.95290645,True,False,"['F-', 'O2-', 'Fe2+', 'Li+']",Perovskita Dupla
-mp-780155,Li9Fe3(OF7)2,1.8165,False,0.047834399781746,-2.835716280357143,Triclinic,P-1,2,relacionada,GGA+U,2.911197985831147,-0.15301525,True,False,"['Fe3+', 'O2-', 'Li+', 'F-']",Perovskita Dupla
-mp-866713,ReTeSCl4,2.3274,False,0.0,-1.061638552380952,Tetragonal,I-4,82,kesterita,GGA,3.840004270089397,0.630814,False,True,"['Re5+', 'Te+', 'S2-', 'Cl-']",Kesterita
-mp-1219554,RbLiZnS2,2.5255,True,0.0,-1.327102511166665,Tetragonal,I-4m2,119,kesterita,GGA,3.30550831182563,1.03850678,True,False,"['Rb+', 'Zn2+', 'Li+', 'S2-']",Kesterita
-mp-1225887,CsLiZnS2,2.5019,True,0.0,-1.3275438255977,Tetragonal,I-4m2,119,kesterita,GGA,3.752316748058588,3.95145796,True,False,"['Zn2+', 'S2-', 'Cs+', 'Li+']",Kesterita
-mp-774907,KLiZnS2,2.5442,False,0.0,-1.320778135116665,Tetragonal,I-4m2,119,kesterita,GGA,2.759771040667913,1.0428322,True,False,"['K+', 'S2-', 'Zn2+', 'Li+']",Kesterita
-mp-19896,Li2GePbS4,2.2649,False,0.0,-1.061876898958332,Tetragonal,I-42m,121,kesterita,GGA,4.10466786900527,2.76233331,False,True,"['S2-', 'Li+', 'Ge4+', 'Pb2+']",Kesterita
-mp-637206,AlBiSeCl4,2.542399999999999,False,0.0,-1.581969395691965,Tetragonal,I-4,82,kesterita,GGA,3.5376926968141813,0.1107556,False,True,"['Se2-', 'Cl-', 'Al3+', 'Bi3+']",Kesterita
-mp-866695,ReTeSeCl4,2.3069,False,0.0,-1.016341852001488,Tetragonal,I-4,82,kesterita,GGA,4.118123942574492,0.61229772,False,True,"['Re5+', 'Se2-', 'Te+', 'Cl-']",Kesterita
-mp-1021497,Li2SiSnS4,1.9189,True,0.016868490312502,-1.135290066458332,Tetragonal,I-42m,121,kesterita,GGA,2.965496773110087,3.80801766,True,False,"['Si4+', 'S2-', 'Li+', 'Sn2+']",Kesterita
-mp-560831,Na6P4Pb3S16,2.3264,False,0.0,-0.963014449891284,Trigonal,R3m,160,relacionada,GGA,3.332101756006162,2.71783251,False,True,"['Na+', 'S2-', 'P5+', 'Pb2+']",Kesterita
-mp-1224229,K10Zn4Sn4S17,2.1377,False,0.0,-1.184043788285713,Trigonal,R3m,160,relacionada,GGA,2.701186557855463,0.95213615,True,False,"['K+', 'Sn4+', 'Zn2+', 'S2-']",Kesterita
-mp-1223262,La6Sb4(SO4)3,1.957899999999999,True,0.0,-2.881236617700001,Tetragonal,I-42d,122,relacionada,GGA,5.790163945422656,8.3453657,True,False,"['O2-', 'S2-', 'La3+', 'Sb3+']",Kesterita
-mp-1229020,Al8Zn3CdS16,2.4821,True,0.010569692678569,-1.16911616875,Trigonal,R3m,160,relacionada,GGA,3.285307612627941,4.03935374,True,False,"['Cd2+', 'Zn2+', 'S2-', 'Al3+']",Kesterita
-mp-1224911,Fe3H9S2O15,1.9904,False,0.020887538390803,-1.5364637921120692,Trigonal,R3m,160,relacionada,GGA+U,2.866981317641671,2.76269133,True,False,"['Fe3+', 'O2-', 'H+', 'S6+']",Kesterita
+mp-989516,Cs2ICl6F,1.126099999999999,True,0.0,-1.372084801931035,Cubic,Fm-3m,225,perovskita dupla,GGA,3.412775082845865,1.10919047,True,False,"['I5+', 'F-', 'Cs+', 'Cl-']",Perovskita Dupla
+mp-1193745,CeAsO4F,1.495499999999999,True,0.0,-2.843470298214286,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.643819334603983,1.08075612,False,True,"['F-', 'O2-', 'Ce4+', 'As5+']",Perovskita Dupla
+mp-1079339,K2NaMnF6,1.5314,True,0.0,-2.983474632381034,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,2.972446846605264,-0.75197735,False,True,"['K+', 'Na+', 'F-', 'Mn3+']",Perovskita Dupla
+mp-1205717,KRb2MnF6,1.704699999999999,False,0.0,-2.972165431018103,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.397790348606249,-1.06311945,True,True,"['K+', 'Rb+', 'F-', 'Mn3+']",Perovskita Dupla
+mp-558050,Rb2NaMnF6,1.678599999999999,False,0.0,-2.985309472431034,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.748975577831617,-0.8452329900000001,False,True,"['Na+', 'Rb+', 'F-', 'Mn3+']",Perovskita Dupla
+mp-560861,Cs2KMnF6,1.7435,False,0.0,-2.983461569449137,Tetragonal,I4/mmm,139,perovskita dupla,HSE06,4.013910600488281,-0.40957645,False,True,"['K+', 'Cs+', 'F-', 'Mn3+']",Perovskita Dupla
+mp-1210483,Na2CoNiF7,1.4955,False,0.0,-2.521602485705329,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.491760763802576,-1.343040789999999,True,True,"['Na+', 'Co3+', 'F-', 'Ni2+']",Perovskita Dupla
+mp-1212006,InNiAg2F7,1.4768,False,0.0,-2.109511752727272,Orthorhombic,Imma,74,perovskita dupla,GGA+U,5.292395254968391,0.48297318,True,True,"['F-', 'Ag+', 'In3+', 'Ni2+']",Perovskita Dupla
+mp-1213740,CrNiAg2F7,1.657399999999999,False,0.0,-2.192959935757575,Orthorhombic,Imma,74,perovskita dupla,GGA+U,5.029945735734276,0.36047255,True,True,"['F-', 'Cr3+', 'Ag+', 'Ni2+']",Perovskita Dupla
+mp-1110602,Rb2AgRhF6,1.390499999999999,False,0.0,-2.264492504666665,Cubic,Fm-3m,225,perovskita dupla,GGA,4.758966161831451,0.13435921,True,False,"['Rh3+', 'F-', 'Rb+', 'Ag+']",Perovskita Dupla
+mp-1111665,K2LiRhF6,1.7665000000000002,True,0.0,-2.6630542147833323,Cubic,Fm-3m,225,perovskita dupla,GGA,3.900989451475024,0.14166667,True,False,"['Rh3+', 'K+', 'Li+', 'F-']",Perovskita Dupla
+mp-1111950,K2AgRhF6,1.4182,False,0.0,-2.246720276616666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.988046326716506,0.0471862,True,False,"['Rh3+', 'K+', 'Ag+', 'F-']",Perovskita Dupla
+mp-1113707,Rb2LiRhF6,1.7225,True,0.0,-2.645169458833333,Cubic,Fm-3m,225,perovskita dupla,GGA,4.435978206236426,0.12166667,True,False,"['Rh3+', 'F-', 'Rb+', 'Li+']",Perovskita Dupla
+mp-14037,NaTl2RhF6,1.7848000000000002,False,0.0,-2.211141618804599,Cubic,Fm-3m,225,perovskita dupla,GGA,6.60542456792536,1.80230875,False,True,"['Rh3+', 'Na+', 'F-', 'Tl+']",Perovskita Dupla
+mp-1225874,CsZnCoF6,1.6216,True,0.0,-2.51893058329502,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.212920528342598,-1.81734835,True,False,"['Co3+', 'F-', 'Zn2+', 'Cs+']",Perovskita Dupla
+mp-1228863,CsMnCrF6,1.595799999999999,False,0.0,-3.080869609731801,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.775565104075753,0.310188099999999,True,False,"['Mn2+', 'F-', 'Cr3+', 'Cs+']",Perovskita Dupla
+mp-1228915,CsCoNiF6,1.4981,False,0.0,-2.4228049332950192,Orthorhombic,Imma,74,perovskita dupla,GGA+U,4.27544614824969,-0.99621847,True,False,"['F-', 'Co3+', 'Cs+', 'Ni2+']",Perovskita Dupla
+mp-1228982,CsMnFeF6,1.1137,True,0.0,-2.889407558065134,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.790419746171669,0.33652506,True,False,"['Mn2+', 'Fe3+', 'Cs+', 'F-']",Perovskita Dupla
+mp-1205991,LaBi2ClO4,1.3154,False,0.0,-2.427293029375001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.338835382018139,4.08909277,True,True,"['Cl-', 'O2-', 'La3+', 'Bi3+']",Perovskita Dupla
+mp-545529,NdBi2ClO4,1.1973999999999991,False,0.0,-2.4068132021875,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.640609667500461,3.42129155,False,True,"['Nd3+', 'O2-', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-546082,TmBi2ClO4,1.4201,False,0.0,-2.481416511250001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.44149754336076,3.6916917,False,True,"['Tm3+', 'O2-', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-546152,SmBi2ClO4,1.217699999999999,False,0.0,-2.431803824375001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.857310992273154,3.49372382,False,True,"['O2-', 'Sm3+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-547125,TbBi2ClO4,1.3439,False,0.0,-2.462889460833334,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,8.09559497399554,3.60102528,False,True,"['O2-', 'Cl-', 'Bi3+', 'Tb3+']",Perovskita Dupla
+mp-549127,HoBi2ClO4,1.370999999999999,False,0.0,-2.470130923125,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.278940385967152,3.64886018,False,True,"['O2-', 'Ho3+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-549709,ErBi2ClO4,1.3769,False,0.0,-2.475584263749999,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.616169133742371,3.75316474,False,True,"['O2-', 'Er3+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-550805,LuBi2ClO4,1.461799999999999,False,0.0,-2.481985219583334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.57199460348832,3.78318927,False,True,"['O2-', 'Lu3+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-552008,DyBi2ClO4,1.3739,False,0.0,-2.466786182708333,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.189800366409605,3.62287869,False,True,"['O2-', 'Cl-', 'Dy3+', 'Bi3+']",Perovskita Dupla
+mp-552604,YBi2ClO4,1.3088,False,0.0,-2.4487773725000013,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.314987307924014,3.75291283,False,True,"['O2-', 'Y3+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-553082,PrBi2ClO4,1.1244,False,0.0,-2.388985133958334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.559526182273299,3.40412933,False,True,"['O2-', 'Cl-', 'Pr3+', 'Bi3+']",Perovskita Dupla
+mp-1096926,Cs2InAgCl6,1.3421,True,0.0,-1.739095379764367,Cubic,Fm-3m,225,perovskita dupla,GGA,3.8229427688852953,0.49316851,True,False,"['Cl-', 'Ag+', 'Cs+', 'In3+']",Perovskita Dupla
+mp-1110690,Rb2CuBiCl6,1.0756,False,0.0,-1.6369621595,Cubic,Fm-3m,225,perovskita dupla,GGA,3.757091201254247,1.974014299999999,True,False,"['Cu+', 'Rb+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-1110803,Rb2AgSbCl6,1.6275,False,0.0,-1.615785375666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.270080969133103,1.07258795,True,False,"['Rb+', 'Ag+', 'Cl-', 'Sb3+']",Perovskita Dupla
+mp-1110871,K2CuBiCl6,1.161699999999999,False,0.0,-1.60153208845,Cubic,Fm-3m,225,perovskita dupla,GGA,3.264289768337317,1.86171801,True,False,"['K+', 'Cl-', 'Cu+', 'Bi3+']",Perovskita Dupla
+mp-1111634,Rb2InAgCl6,1.293,True,0.0,-1.710742968333332,Cubic,Fm-3m,225,perovskita dupla,GGA,3.4145040035012797,0.29840226,True,False,"['Cl-', 'Rb+', 'Ag+', 'In3+']",Perovskita Dupla
+mp-1111655,Rb2AgAsCl6,1.2354,False,0.0,-1.535834353416666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.283639591315527,0.99409247,True,False,"['Rb+', 'Ag+', 'Cl-', 'As3+']",Perovskita Dupla
+mp-1112940,Cs2AgSbCl6,1.662399999999999,False,0.0,-1.651126571097701,Cubic,Fm-3m,225,perovskita dupla,GGA,3.680926402161937,1.28597068,True,False,"['Ag+', 'Cs+', 'Cl-', 'Sb3+']",Perovskita Dupla
+mp-1114071,Rb2InBiCl6,1.691599999999999,True,0.0,-1.718065487166666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.163421976772406,1.17805865,True,False,"['Cl-', 'Rb+', 'In+', 'Bi3+']",Perovskita Dupla
+mp-1205683,Cs2KCrCl6,1.553499999999999,True,0.0,-1.948814964874999,Cubic,Fm-3m,225,perovskita dupla,GGA,3.114668186432675,0.227834999999999,True,True,"['K+', 'Cr3+', 'Cs+', 'Cl-']",Perovskita Dupla
+mp-1206059,Rb2NaCrCl6,1.3631,True,0.0,-1.98747025163793,Cubic,Fm-3m,225,perovskita dupla,GGA,2.7902886721057323,0.33653383,True,True,"['Na+', 'Rb+', 'Cr3+', 'Cl-']",Perovskita Dupla
+mp-1206266,K2NaCrCl6,1.3875,True,0.0,-1.958004638587931,Cubic,Fm-3m,225,perovskita dupla,GGA,2.307515398921579,0.3681124,True,True,"['K+', 'Na+', 'Cr3+', 'Cl-']",Perovskita Dupla
+mp-24227,H8Pt(NCl3)2,1.7803,True,0.0,-0.849392803529412,Cubic,Fm-3m,225,perovskita dupla,GGA,2.937610214262392,-0.03694234,False,True,"['N3-', 'H+', 'Cl-', 'Pt4+']",Perovskita Dupla
+mp-632724,ReH8(NCl3)2,1.0107,True,0.0,-0.889936553088236,Cubic,Fm-3m,225,perovskita dupla,GGA,2.874959460043502,1.23460529,False,True,"['N3-', 'H+', 'Re4+', 'Cl-']",Perovskita Dupla
+mp-1219602,Rb4InSbCl12,1.033599999999999,True,0.0,-1.80634067537037,Tetragonal,P4/mmm,123,perovskita dupla,GGA,2.932610812495411,-0.30437342,True,False,"['Cl-', 'Sb5+', 'Rb+', 'In3+']",Perovskita Dupla
+mp-1225983,Cs4InSbCl12,1.0907,False,0.0,-1.8347721408492967,Tetragonal,P4/mmm,123,perovskita dupla,GGA,3.151300890713427,-0.40642988,True,False,"['Cl-', 'Sb5+', 'Cs+', 'In3+']",Perovskita Dupla
+mp-545847,LuBi2BrO4,1.3984,False,0.0,-2.428291011458334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.774656788566745,3.68937843,False,True,"['Br-', 'O2-', 'Lu3+', 'Bi3+']",Perovskita Dupla
+mp-546350,TmBi2BrO4,1.360199999999999,False,0.0,-2.428541616875002,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.65940498370539,3.7383759,False,True,"['Tm3+', 'Br-', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-546621,ErBi2BrO4,1.357,False,0.0,-2.423718180625001,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,8.576980871338387,3.71168487,False,True,"['Br-', 'O2-', 'Er3+', 'Bi3+']",Perovskita Dupla
+mp-546625,HoBi2BrO4,1.366499999999999,False,0.0,-2.418701072499999,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.471310045810544,3.54824264,False,True,"['Br-', 'O2-', 'Ho3+', 'Bi3+']",Perovskita Dupla
+mp-549475,TbBi2BrO4,1.2946,False,0.0,-2.412139328958334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.361980309129768,3.63791264,False,True,"['Br-', 'O2-', 'Bi3+', 'Tb3+']",Perovskita Dupla
+mp-550111,SmBi2BrO4,1.278299999999999,False,0.0,-2.383572875,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,8.026407564314274,3.31736093,False,True,"['Br-', 'O2-', 'Sm3+', 'Bi3+']",Perovskita Dupla
+mp-551900,PrBi2BrO4,1.2269,False,0.0,-2.343494804583335,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.730757360497485,3.30704816,False,True,"['Br-', 'O2-', 'Pr3+', 'Bi3+']",Perovskita Dupla
+mp-552992,DyBi2BrO4,1.329,False,0.0,-2.415745113333333,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.423513003242995,3.59795013,False,True,"['Br-', 'O2-', 'Dy3+', 'Bi3+']",Perovskita Dupla
+mp-553242,NdBi2BrO4,1.219899999999999,False,0.0,-2.3604428240625,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.878409326036207,3.31002276,False,True,"['Br-', 'Nd3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-553243,YBi2BrO4,1.339999999999999,False,0.0,-2.398279179375002,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.776488269165777,3.70173793,False,True,"['Br-', 'Y3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-562809,GdBi2BrO4,1.023199999999999,False,0.0,-2.385056775625001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.187904483538329,3.59930058,False,True,"['Br-', 'O2-', 'Bi3+', 'Gd3+']",Perovskita Dupla
+mp-1112112,Cs2TlAsBr6,1.2314,True,0.0,-1.421802531014368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.297186140169187,0.86213521,True,False,"['Br-', 'Cs+', 'As3+', 'Tl+']",Perovskita Dupla
+mp-1113578,Cs2AgAsBr6,1.116099999999999,False,0.0,-1.322267520847702,Cubic,Fm-3m,225,perovskita dupla,GGA,4.676508544950792,0.53278941,True,False,"['Br-', 'Ag+', 'Cs+', 'As3+']",Perovskita Dupla
+mp-1114011,Rb2NaTlBr6,1.0102,True,0.0,-1.528904055971265,Cubic,Fm-3m,225,perovskita dupla,GGA,3.943708613696137,-0.87926837,True,False,"['Br-', 'Na+', 'Rb+', 'Tl3+']",Perovskita Dupla
+mp-989405,Cs2LiInBr6,1.318,True,0.0,-1.701866446931034,Cubic,Fm-3m,225,perovskita dupla,GGA,4.218931981310846,0.14427298,True,False,"['In3+', 'Br-', 'Cs+', 'Li+']",Perovskita Dupla
+mp-545728,PrBi2IO4,1.2196999999999991,False,0.0,-2.260997688333334,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,7.840832859878374,4.06878921,False,True,"['I-', 'O2-', 'Pr3+', 'Bi3+']",Perovskita Dupla
+mp-546266,DyBi2IO4,1.3667999999999991,False,0.0,-2.325755380833334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.475085632881713,4.25411149,False,True,"['I-', 'O2-', 'Dy3+', 'Bi3+']",Perovskita Dupla
+mp-546672,LaBi2IO4,1.2225,False,0.0,-2.301724320000001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.780607084812007,4.87872658,False,True,"['O2-', 'I-', 'La3+', 'Bi3+']",Perovskita Dupla
+mp-549333,NdBi2IO4,1.265399999999999,False,0.0,-2.2763558465625,Tetragonal,P4/mmm,123,perovskita dupla,GGA,7.95784603368427,4.06858632,False,True,"['Nd3+', 'I-', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-550635,LuBi2IO4,1.4425,False,0.0,-2.334368720208334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.81156484290883,4.3971935,False,True,"['I-', 'Lu3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-551101,HoBi2IO4,1.391099999999999,False,0.0,-2.32765876125,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,8.556000610459362,4.30774963,False,True,"['I-', 'Ho3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-551250,ErBi2IO4,1.375,False,0.0,-2.332201546875,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.578807971338948,4.32241971,False,True,"['I-', 'Er3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-551816,YBi2IO4,1.3836,False,0.0,-2.308525149375,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,7.656378784706029,4.35321325,False,True,"['Y3+', 'I-', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-552292,SmBi2IO4,1.3061,False,0.0,-2.297366305000001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.140188772695069,3.98259743,False,True,"['I-', 'Sm3+', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-552738,TmBi2IO4,1.425899999999999,False,0.0,-2.336686201875002,Tetragonal,P4/mmm,123,perovskita dupla,HSE06,8.683084204108507,4.31253312,False,True,"['Tm3+', 'I-', 'O2-', 'Bi3+']",Perovskita Dupla
+mp-552857,TbBi2IO4,1.326699999999999,False,0.0,-2.323286912708334,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.372897998543069,4.215383089999999,False,True,"['I-', 'O2-', 'Bi3+', 'Tb3+']",Perovskita Dupla
+mp-628631,GdBi2IO4,1.3080999999999992,False,0.0,-2.297375686875001,Tetragonal,P4/mmm,123,perovskita dupla,GGA,8.29867445991187,4.17320534,False,True,"['I-', 'O2-', 'Bi3+', 'Gd3+']",Perovskita Dupla
+mp-1112544,Cs2TlAsI6,1.0046,True,0.0,-1.059115153014369,Cubic,Fm-3m,225,perovskita dupla,GGA,4.531964694635132,1.66666667,True,False,"['I-', 'Cs+', 'As3+', 'Tl+']",Perovskita Dupla
+mp-1111735,Rb2AgAsBr6,1.0799,False,0.000632197750001,-1.289603306416666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.132635607443658,0.28966561,True,False,"['Br-', 'Rb+', 'Ag+', 'As3+']",Perovskita Dupla
+mp-557303,Ag2NClO3,1.71,False,0.004609555714286,-0.68977540690476,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.678561123032568,0.77217325,False,True,"['N5+', 'O2-', 'Ag+', 'Cl-']",Perovskita Dupla
+mp-1222826,Li2Zr6MnCl15,1.1644,False,0.004665175972224,-2.012156412691572,Tetragonal,I4/mmm,139,perovskita dupla,GGA,3.233688651459102,2.52055177,True,False,"['Cl-', 'Li+', 'Zr2+', 'Mn+']",Perovskita Dupla
+mp-559933,Ba3In2Cl2O5,1.4236,False,0.00497926916667,-2.579075120694444,Tetragonal,I4/mmm,139,perovskita dupla,GGA,5.578266375326418,2.93125275,False,True,"['Cl-', 'O2-', 'In3+', 'Ba2+']",Perovskita Dupla
+mp-1078250,Cs2AgBiBr6,1.3547,False,0.005524869812501,-1.456030710097701,Cubic,Fm-3m,225,perovskita dupla,GGA,4.652655552917027,0.57378942,False,True,"['Br-', 'Ag+', 'Cs+', 'Bi3+']",Perovskita Dupla
+mp-643397,H8Pd(NCl3)2,1.0972,False,0.005554570882353,-0.816932634117647,Cubic,Fm-3m,225,perovskita dupla,GGA,2.534519730859544,-0.27486081,False,True,"['N3-', 'H+', 'Cl-', 'Pd4+']",Perovskita Dupla
+mp-1110874,K2InAgCl6,1.2922,True,0.006189198999998,-1.674026557283333,Cubic,Fm-3m,225,perovskita dupla,GGA,2.949555453396399,0.32014376,True,False,"['Cl-', 'K+', 'Ag+', 'In3+']",Perovskita Dupla
+mp-1111434,Cs2NaMoCl6,1.6371,True,0.006399425750007,-1.778304948000018,Cubic,Fm-3m,225,perovskita dupla,GGA,3.323508574754686,1.61863388,True,False,"['Cl-', 'Na+', 'Cs+', 'Mo3+']",Perovskita Dupla
+mp-1205696,Cs2NaCrCl6,1.3532,True,0.0072841995,-1.90785124525,Cubic,Fm-3m,225,perovskita dupla,GGA,3.202787155781387,0.55652007,True,True,"['Na+', 'Cr3+', 'Cs+', 'Cl-']",Perovskita Dupla
+mp-557049,CdSbS2Cl,1.6373,False,0.007451008750001,-0.679851513374998,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.532820729249766,3.16455048,False,True,"['Cl-', 'Cd2+', 'S2-', 'Sb3+']",Perovskita Dupla
+mp-556004,Ba3In2Br2O5,1.2907,False,0.007872946145838,-2.481204487361111,Tetragonal,I4/mmm,139,perovskita dupla,GGA,5.898231429121717,2.6088321,False,True,"['Br-', 'O2-', 'In3+', 'Ba2+']",Perovskita Dupla
+mp-1111876,Cs2KMoCl6,1.666,True,0.00800594775001,-1.8040703413750152,Cubic,Fm-3m,225,perovskita dupla,GGA,3.066880952154242,1.23386132,True,False,"['Cl-', 'K+', 'Cs+', 'Mo3+']",Perovskita Dupla
+mp-1113543,Cs2AgAsCl6,1.5886,False,0.008311962999999,-1.5611243658477,Cubic,Fm-3m,225,perovskita dupla,GGA,3.712971088389649,0.97213706,True,False,"['Ag+', 'Cs+', 'Cl-', 'As3+']",Perovskita Dupla
+mp-758075,Fe2H4O2F5,1.587,False,0.00832864012821,-1.995273671923077,Orthorhombic,Imma,74,perovskita dupla,GGA+U,2.881451077217962,-0.59050841,False,True,"['Fe3+', 'O2-', 'F-', 'H+', 'Fe2+']",Perovskita Dupla
+mp-1112498,Cs2TlBiBr6,1.7359,True,0.008358704500001,-1.549795573264369,Cubic,Fm-3m,225,perovskita dupla,GGA,4.346058157573892,0.44,True,False,"['Br-', 'Cs+', 'Bi3+', 'Tl+']",Perovskita Dupla
+mp-555210,K4W2Cl10O,1.184,True,0.01090432102941,-1.8255250661176472,Tetragonal,I4/mmm,139,perovskita dupla,GGA+U,3.048750778588118,0.51259017,False,True,"['K+', 'O2-', 'Cl-', 'W4+']",Perovskita Dupla
+mp-17057,Sr2SnSe3F2,1.447899999999999,True,0.0113085559375,-2.314096016210941,Orthorhombic,Pnma,62,perovskita dupla,GGA,4.987642482871245,2.50117806,False,True,"['F-', 'Sr2+', 'Se2-', 'Sn4+']",Perovskita Dupla
+mp-1114116,Rb2TlAsBr6,1.1412,True,0.011424803,-1.374339472583334,Cubic,Fm-3m,225,perovskita dupla,GGA,3.978875569811368,0.68998394,True,False,"['Br-', 'Rb+', 'As3+', 'Tl+']",Perovskita Dupla
+mp-1201600,In2BiSe4I,1.4904,False,0.011739891249999,-0.7547303947135411,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.68760151533766,4.14096487,False,True,"['I-', 'Se2-', 'In3+', 'Bi3+']",Perovskita Dupla
+mp-1112943,Cs2AgSbBr6,1.1916,False,0.011956138312506,-1.4068146840977,Cubic,Fm-3m,225,perovskita dupla,GGA,4.395385730695127,0.84187435,True,False,"['Br-', 'Ag+', 'Cs+', 'Sb3+']",Perovskita Dupla
+mp-1110678,Rb2NaMoCl6,1.622399999999999,True,0.012174970000002,-1.87695594963793,Cubic,Fm-3m,225,perovskita dupla,GGA,2.917560068469606,1.36191344,True,False,"['Cl-', 'Na+', 'Rb+', 'Mo3+']",Perovskita Dupla
+mp-1112480,K2AgAsCl6,1.519,False,0.013737397250002,-1.501012421366666,Cubic,Fm-3m,225,perovskita dupla,GGA,2.798641505746342,0.79288861,True,False,"['K+', 'Ag+', 'Cl-', 'As3+']",Perovskita Dupla
+mp-1112108,Cs2TlSbBr6,1.2294,True,0.014962783,-1.500406737264369,Cubic,Fm-3m,225,perovskita dupla,GGA,4.149785128558839,1.04666667,True,False,"['Br-', 'Cs+', 'Sb3+', 'Tl+']",Perovskita Dupla
+mp-989579,Rb2LiTlCl6,1.5593,True,0.016350675749999,-1.799548220166667,Cubic,Fm-3m,225,perovskita dupla,GGA,3.459505567753611,-0.50583333,True,False,"['Cl-', 'Rb+', 'Tl3+', 'Li+']",Perovskita Dupla
+mp-1112999,Cs2LiTlCl6,1.5236,True,0.018173167250002,-1.823550346597702,Cubic,Fm-3m,225,perovskita dupla,GGA,3.844957647619074,-0.25916667,True,False,"['Cl-', 'Tl3+', 'Cs+', 'Li+']",Perovskita Dupla
+mp-556345,Ag2BrNO3,1.6045,False,0.019580985714285,-0.6550704147619041,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.030349553075043,0.65074933,False,True,"['Br-', 'O2-', 'Ag+', 'N5+']",Perovskita Dupla
+mp-1112138,Cs2NaTlBr6,1.0093,True,0.01961205425,-1.571439963402299,Cubic,Fm-3m,225,perovskita dupla,GGA,4.257773071706295,-0.60690663,True,False,"['Br-', 'Na+', 'Tl3+', 'Cs+']",Perovskita Dupla
+mp-1110912,K2AgSbBr6,1.1248,False,0.019743254750001,-1.322933582616666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.665237938929471,0.58401346,True,False,"['Br-', 'K+', 'Ag+', 'Sb3+']",Perovskita Dupla
+mp-21445,Ba3In2O5F2,1.5869,False,0.020119398750003,-2.8372749840277773,Tetragonal,I4/mmm,139,perovskita dupla,GGA,6.026290766124467,2.97466774,False,True,"['F-', 'O2-', 'In3+', 'Ba2+']",Perovskita Dupla
+mp-1110796,Rb2AgMoCl6,1.0147,True,0.022125837312501,-1.596520025666666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.456050929596879,1.474918,True,False,"['Cl-', 'Rb+', 'Ag+', 'Mo3+']",Perovskita Dupla
+mp-1112501,Cs2TlBiI6,1.3773,True,0.023518774000002,-1.170902798264369,Cubic,Fm-3m,225,perovskita dupla,GGA,4.507762778360555,1.24,True,False,"['I-', 'Cs+', 'Bi3+', 'Tl+']",Perovskita Dupla
+mp-1111471,Cs2CuBiCl6,1.118399999999999,False,0.024176087499995,-1.458815747999986,Cubic,Fm-3m,225,perovskita dupla,GGA,4.152767141833456,2.16627479,True,False,"['Cu+', 'Cs+', 'Cl-', 'Bi3+']",Perovskita Dupla
+mp-1112889,Cs2InBiCl6,1.7611999999999992,True,0.024267332666671,-1.768342909597702,Cubic,Fm-3m,225,perovskita dupla,GGA,3.5255403783025443,1.36943616,True,False,"['Cl-', 'Cs+', 'In+', 'Bi3+']",Perovskita Dupla
+mp-753835,LiMn2O3F,1.1405,False,0.02463295455357,-2.318097760599344,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,3.881525928314648,1.86750762,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
+mp-1110804,Rb2AgSbBr6,1.1538,False,0.025189507562503,-1.366274936666666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.039577554820427,0.58949628,True,False,"['Br-', 'Rb+', 'Ag+', 'Sb3+']",Perovskita Dupla
+mp-1110668,Rb2LiMoCl6,1.537999999999999,False,0.025383649750001,-1.871898910833333,Cubic,Fm-3m,225,perovskita dupla,GGA,3.069651027066096,1.6475,True,False,"['Cl-', 'Rb+', 'Mo3+', 'Li+']",Perovskita Dupla
+mp-1210304,Na2MnFeF7,1.3979,False,0.025392486704556,-2.863141835517241,Orthorhombic,Imma,74,perovskita dupla,GGA+U,3.092503667272831,0.38216869,True,True,"['Na+', 'Fe3+', 'Mn2+', 'F-']",Perovskita Dupla
+mp-1110873,K2AgSbCl6,1.6025,False,0.026073496749987,-1.362271146750004,Cubic,Fm-3m,225,perovskita dupla,GGA,2.8168522736825983,1.06017339,True,False,"['K+', 'Ag+', 'Cl-', 'Sb3+']",Perovskita Dupla
+mp-1114061,Rb2InSbCl6,1.2828,True,0.026838979249998,-1.670326034166666,Cubic,Fm-3m,225,perovskita dupla,GGA,2.88711424020172,1.73446049,True,False,"['Cl-', 'Rb+', 'In+', 'Sb3+']",Perovskita Dupla
+mp-570590,CdBiSe2Br,1.388599999999999,False,0.029003820666669,-0.841849463937499,Orthorhombic,Pnma,62,perovskita dupla,GGA,6.689550722080378,2.24244629,False,True,"['Br-', 'Cd2+', 'Se2-', 'Bi3+']",Perovskita Dupla
+mp-1111822,Cs2NaMoBr6,1.4443,True,0.029777837999998,-1.586868888068966,Cubic,Fm-3m,225,perovskita dupla,GGA,4.097699998928286,0.99371062,True,False,"['Br-', 'Na+', 'Cs+', 'Mo3+']",Perovskita Dupla
+mp-1110811,Rb2AgBiBr6,1.581999999999999,False,0.030073661374996,-1.413070619666666,Cubic,Fm-3m,225,perovskita dupla,GGA,4.317988406153579,0.115131199999999,True,False,"['Br-', 'Rb+', 'Ag+', 'Bi3+']",Perovskita Dupla
+mp-1113030,Cs2KTlBr6,1.3749,True,0.030537573249999,-1.597138481989369,Cubic,Fm-3m,225,perovskita dupla,GGA,3.892542700660237,-1.0525,True,False,"['Br-', 'K+', 'Tl3+', 'Cs+']",Perovskita Dupla
+mp-1110989,Cs2LiMoCl6,1.597799999999999,True,0.033437410125007,-1.7532968331666892,Cubic,Fm-3m,225,perovskita dupla,GGA,3.473962979984999,1.8475,True,False,"['Cl-', 'Mo3+', 'Cs+', 'Li+']",Perovskita Dupla
+mp-1112627,Cs2InGaBr6,1.244,False,0.033446606749999,-1.531044263347701,Cubic,Fm-3m,225,perovskita dupla,GGA,4.116398447146349,0.46717664,True,False,"['Br-', 'Ga+', 'Cs+', 'In3+']",Perovskita Dupla
+mp-1110861,K2NaMoCl6,1.5542,False,0.034184043499998,-1.720503804583323,Cubic,Fm-3m,225,perovskita dupla,GGA,2.436918106860151,1.33000554,True,False,"['Cl-', 'K+', 'Na+', 'Mo3+']",Perovskita Dupla
+mp-1112871,Cs2KMoBr6,1.6085,True,0.034323731187497,-1.619100962656034,Cubic,Fm-3m,225,perovskita dupla,GGA,3.770319935616985,0.59783801,True,False,"['Br-', 'K+', 'Cs+', 'Mo3+']",Perovskita Dupla
+mp-780202,Li2FeO2F,1.6775,False,0.034743838333334,-2.316799958194444,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,3.742836458641112,2.72601823,True,False,"['Fe3+', 'O2-', 'Li+', 'F-']",Perovskita Dupla
+mp-1112673,Cs2LiSbI6,1.7376,False,0.035539827000001,-1.226407345264368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.32562036423368,1.30708333,True,False,"['I-', 'Cs+', 'Li+', 'Sb3+']",Perovskita Dupla
+mp-2646981,CsPbI2Br,1.4384,True,0.035953406166669,-1.350987620931034,Tetragonal,P4/mmm,123,perovskita dupla,GGA,4.617248557371106,1.35910424,True,False,"['Br-', 'I-', 'Cs+', 'Pb2+']",Perovskita Dupla
+mp-1198076,Rb2CrCl5O,1.0209,False,0.035991235277778,-1.727938965277777,Orthorhombic,Pnma,62,perovskita dupla,GGA+U,2.6841490460068043,-1.00261645,False,True,"['Cr5+', 'O2-', 'Rb+', 'Cl-']",Perovskita Dupla
+mp-1112283,K2InAgF6,1.6678000000000002,False,0.036784351250004,-2.595298415283332,Cubic,Fm-3m,225,perovskita dupla,GGA,3.743980046061199,0.13766041,True,False,"['K+', 'Ag+', 'In3+', 'F-']",Perovskita Dupla
+mp-1111660,K2LiTlCl6,1.5798,True,0.037746587750001,-1.7663663211166671,Cubic,Fm-3m,225,perovskita dupla,GGA,2.999284646365171,-0.5062500000000001,True,False,"['Cl-', 'K+', 'Tl3+', 'Li+']",Perovskita Dupla
+mp-1110855,K2LiMoCl6,1.4862,False,0.037877211999999,-1.7073903449166798,Cubic,Fm-3m,225,perovskita dupla,GGA,2.561813034232243,1.6675,True,False,"['Cl-', 'K+', 'Mo3+', 'Li+']",Perovskita Dupla
+mp-1112107,Cs2TlInI6,1.4001,False,0.039499220749999,-1.174716372931035,Cubic,Fm-3m,225,perovskita dupla,GGA,4.471693615918862,0.94005315,True,False,"['I-', 'Cs+', 'In3+', 'Tl+']",Perovskita Dupla
+mp-1110921,K2AgBiBr6,1.5765,False,0.040107347500001,-1.368099099616666,Cubic,Fm-3m,225,perovskita dupla,GGA,3.948139760156324,0.07993201,True,False,"['Br-', 'K+', 'Ag+', 'Bi3+']",Perovskita Dupla
+mp-1112116,Cs2RbTlBr6,1.5132999999999992,True,0.040737424249999,-1.589017462014368,Cubic,Fm-3m,225,perovskita dupla,GGA,3.869634930210509,-1.19833333,True,False,"['Br-', 'Rb+', 'Cs+', 'Tl3+']",Perovskita Dupla
+mp-1114113,Rb2TlSbBr6,1.1629,True,0.041239945250005,-1.4478168138333332,Cubic,Fm-3m,225,perovskita dupla,GGA,3.838639530728536,0.8466666700000001,True,False,"['Br-', 'Rb+', 'Sb3+', 'Tl+']",Perovskita Dupla
+mp-605821,Nd3SeBrN2,1.212199999999999,False,0.041738862857135,-1.8245722078348208,Orthorhombic,Pnma,62,perovskita dupla,GGA,5.815852519611092,2.60033956,False,True,"['Br-', 'Nd3+', 'N3-', 'Se2-']",Perovskita Dupla
+mp-1113057,Cs2KAlI6,1.7447,True,0.043195742749999,-1.364546214656034,Cubic,Fm-3m,225,perovskita dupla,GGA,3.825743459639343,0.8275,True,False,"['K+', 'I-', 'Cs+', 'Al3+']",Perovskita Dupla
+mp-1111195,K2TlSbBr6,1.1146,True,0.04398532525,-1.396971674783333,Cubic,Fm-3m,225,perovskita dupla,GGA,3.511772279127758,0.8675364600000001,True,False,"['Br-', 'K+', 'Sb3+', 'Tl+']",Perovskita Dupla
+mp-640057,K2OsNCl5,1.5914,True,0.045350176944444,-1.369977844944443,Orthorhombic,Pnma,62,perovskita dupla,GGA,3.295491218890597,1.33842403,False,True,"['K+', 'N-', 'Os4+', 'Cl-']",Perovskita Dupla
+mp-1110703,Rb2NaMoBr6,1.4757,True,0.045588960458331,-1.551942168637931,Cubic,Fm-3m,225,perovskita dupla,GGA,3.767358364793421,0.745290599999999,True,False,"['Br-', 'Na+', 'Rb+', 'Mo3+']",Perovskita Dupla
+mp-1114114,Rb2TlBiBr6,1.6711,True,0.045726620874998,-1.495697822833333,Cubic,Fm-3m,225,perovskita dupla,GGA,4.052427513398634,0.25333333,True,False,"['Br-', 'Rb+', 'Bi3+', 'Tl+']",Perovskita Dupla
+mp-1113212,Cs2TaAuF6,1.1619,False,0.045889704040003,-2.931536520543312,Cubic,Fm-3m,225,perovskita dupla,GGA,4.420529888854548,0.5086444999999991,True,False,[],Perovskita Dupla
+mp-1110858,K2AgMoCl6,1.0353,True,0.047456513333335,-1.406337978166679,Cubic,Fm-3m,225,perovskita dupla,GGA,2.970554397733751,1.44800442,True,False,"['Cl-', 'K+', 'Ag+', 'Mo3+']",Perovskita Dupla
+mp-1111847,Cs2LiMoBr6,1.2684,True,0.048563414999998,-1.568247811264368,Cubic,Fm-3m,225,perovskita dupla,GGA,4.309632074683997,1.23416667,True,False,"['Br-', 'Mo3+', 'Cs+', 'Li+']",Perovskita Dupla
+mp-1112923,Cs2ScAuI6,1.0839,False,0.048978814999998,-1.295620720431034,Cubic,Fm-3m,225,perovskita dupla,HSE06,4.97971969020896,1.78798799,True,False,[],Perovskita Dupla
+mp-1112884,Cs2NdCuI6,1.7889,False,0.049070202250002,-1.399856529681034,Cubic,Fm-3m,225,perovskita dupla,GGA,4.688922345074309,2.0875,True,False,"['Nd3+', 'I-', 'Cs+', 'Cu+']",Perovskita Dupla
+mp-1112883,Cs2PrCuI6,1.776399999999999,False,0.049342759749998,-1.3993131760977011,Cubic,Fm-3m,225,perovskita dupla,GGA,4.638644005232575,2.08041667,True,False,"['Cu+', 'I-', 'Cs+', 'Pr3+']",Perovskita Dupla
+mp-1191037,AgAs(SeF2)3,1.6736,True,0.0,-1.6399032428361742,Monoclinic,C2/m,12,relacionada,GGA,4.291903451511375,0.49260624,False,True,"['F-', 'Ag+', 'Se0+', 'As5+']",Perovskita Dupla
+mp-973225,Na2CrH2F8,1.589,False,0.0,-2.562508682712202,Monoclinic,C2/m,12,relacionada,GGA+U,2.795387037468407,-2.24888313,False,True,"['Na+', 'H+', 'F-', 'Cr4+']",Perovskita Dupla
+mp-16291,NaZr2PdF11,1.331899999999999,False,0.0,-3.384749659091953,Monoclinic,C2/m,12,relacionada,GGA,3.671709479722932,-1.1119361,False,True,"['Na+', 'Zr4+', 'Pd2+', 'F-']",Perovskita Dupla
+mp-1201470,Sb2Os(OF7)2,1.3859,False,0.0,-2.320517336315789,Triclinic,P-1,2,relacionada,GGA,4.583611988419056,-2.78427624,False,True,[],Perovskita Dupla
+mp-556541,InSb2S4Cl,1.552499999999998,False,0.0,-0.7862124902083311,Monoclinic,C2/m,12,relacionada,GGA,4.241925353843078,4.01798084,False,True,"['Cl-', 'S2-', 'In3+', 'Sb3+']",Perovskita Dupla
+mp-559521,InBi2S4Cl,1.5805,False,0.0,-0.842193859583332,Monoclinic,C2/m,12,relacionada,HSE06,5.98980957658576,4.23797365,False,True,"['Cl-', 'S2-', 'In3+', 'Bi3+']",Perovskita Dupla
+mp-560549,AuSeClO3,1.3674,False,0.0,-0.915634184140625,Triclinic,P-1,2,relacionada,GGA,4.926911402086227,-0.29123757,False,True,"['Se4+', 'O2-', 'Au3+', 'Cl-']",Perovskita Dupla
+mp-24231,NiH12(ClO3)2,1.412599999999999,False,0.0,-1.248853538809524,Monoclinic,C2/m,12,relacionada,GGA+U,2.040718752848649,-0.01687203,False,True,"['O2-', 'H+', 'Cl-', 'Ni2+']",Perovskita Dupla
+mp-1195865,Ce2Te4Cl2O11,1.4548,False,0.0,-2.228753902719308,Triclinic,P-1,2,relacionada,GGA,4.816811452795452,3.41423812,False,True,"['Cl-', 'O2-', 'Te4+', 'Ce4+']",Perovskita Dupla
+mp-1219275,Re2Os(Se2Cl)2,1.2869,False,0.0,-0.835950994930555,Triclinic,P-1,2,relacionada,GGA,7.048233483612396,3.51141011,True,False,"['Re3+', 'Os4+', 'Cl-', 'Se2-']",Perovskita Dupla
+mp-23635,TlRe6Se8Cl3,1.434699999999999,False,0.0,-0.8721349548379631,Triclinic,P-1,2,relacionada,GGA,7.618437955345222,2.79432137,False,True,"['Re3+', 'Se2-', 'Cl-', 'Tl+']",Perovskita Dupla
+mp-1194909,AlSb2(SeCl2)2,1.121999999999999,False,0.0,-1.3013409741319442,Triclinic,P-1,2,relacionada,GGA,3.300858028329444,1.66711261,False,True,"['Se1.50-', 'Cl-', 'Al3+', 'Sb2+']",Perovskita Dupla
+mp-1196151,InHg7S6Cl5,1.4549,False,0.0,-0.7479428433771951,Triclinic,P-1,2,relacionada,GGA,6.071313815649804,2.29734081,False,True,"['Hg2+', 'S2-', 'In3+', 'Cl-']",Perovskita Dupla
+mp-569675,Tl2Hg2PdCl8,1.7216,False,0.0,-1.100098677051284,Monoclinic,C2/m,12,relacionada,GGA,5.148364902405486,0.39814737,False,True,"['Hg2+', 'Pd2+', 'Cl-', 'Tl+']",Perovskita Dupla
+mp-1203087,Ga4Hg11(PCl4)4,1.718799999999999,False,0.0,-0.9852671778877572,Monoclinic,C2/m,12,relacionada,GGA,4.678580504856417,-0.51404353,False,True,"['P3-', 'Ga3+', 'Hg1.45+', 'Cl-']",Perovskita Dupla
+mp-862605,Rb4Zr6CCl18,1.265199999999999,False,0.0,-2.236696280517241,Monoclinic,C2/m,12,relacionada,GGA,2.976597239569616,1.3279608,False,True,"['C2-', 'Zr3+', 'Zr2+', 'Cl-', 'Rb+']",Perovskita Dupla
+mp-559864,InSb2S4Br,1.5308000000000002,False,0.0,-0.7346905439583311,Monoclinic,C2/m,12,relacionada,GGA,4.548765447983686,3.82493696,False,True,"['Br-', 'S2-', 'In3+', 'Sb3+']",Perovskita Dupla
+mp-550763,CoSb2Br2O3,1.595799999999999,False,0.0,-1.461084595312499,Triclinic,P-1,2,relacionada,GGA+U,4.652824481842632,2.04615813,False,True,"['Sb3+', 'Br-', 'O2-', 'Co2+']",Perovskita Dupla
+mp-567515,Rb2Hg2PdBr8,1.5753,False,0.0,-1.190028612307692,Monoclinic,C2/m,12,relacionada,GGA,4.713452757898962,-0.69118478,False,True,"['Hg2+', 'Br-', 'Rb+', 'Pd2+']",Perovskita Dupla
+mp-669455,Ga4Hg11(AsBr4)4,1.0916,False,0.0,-0.782182087928573,Monoclinic,C2/m,12,relacionada,GGA,5.408250915415627,-0.65994679,False,True,"['As3-', 'Br-', 'Ga3+', 'Hg1.45+']",Perovskita Dupla
+mp-1211812,K4Zr6FeBr18,1.3841,True,0.0,-1.808533697206896,Triclinic,P-1,2,relacionada,GGA,3.6166742433924153,0.69672904,True,True,"['Br-', 'K+', 'Fe2+', 'Zr2+']",Perovskita Dupla
+mp-627575,K4Zr6CBr18,1.174999999999999,False,0.0,-1.866527892551722,Triclinic,P-1,2,relacionada,GGA,3.978569115888239,2.08463935,False,True,"['K+', 'C2-', 'Zr3+', 'Br-', 'Zr2+']",Perovskita Dupla
+mp-616196,OsC3I2O3,1.795599999999999,False,0.0,-0.9219372133333332,Monoclinic,C2/m,12,relacionada,GGA,4.273317171840331,1.01194545,False,True,"['I-', 'Os4+', 'O2-', 'C1.33+']",Perovskita Dupla
+mp-561160,NbP4(S2Cl)5,1.191,False,0.000181209229892,-0.8866757424285701,Triclinic,P-1,2,relacionada,GGA,1.908291942170948,-0.00197624,False,True,"['Cl-', 'Nb5+', 'P5+', 'S2-']",Perovskita Dupla
+mp-570962,SbI3(BrCl3)2,1.1091,False,0.000202111805557,-0.784357608749999,Triclinic,P-1,2,relacionada,GGA,2.9890374225489,-0.36592587,False,True,"['I+', 'Sb5+', 'Br-', 'Cl-']",Perovskita Dupla
+mp-1192837,AlSb5Se5Cl4,1.3956,False,0.000398381833331,-0.959989346781249,Triclinic,P-1,2,relacionada,GGA,3.906513116140329,3.41481973,False,True,"['Sb2.20+', 'Se2-', 'Cl-', 'Al3+']",Perovskita Dupla
+mp-570321,InSb2Se4Br,1.1103,False,0.000908821805555,-0.7087397195052071,Monoclinic,C2/m,12,relacionada,GGA,5.329025714305604,3.36764794,False,True,"['Br-', 'Se2-', 'In3+', 'Sb3+']",Perovskita Dupla
+mp-567556,CdSb2Se3Br2,1.1429,False,0.001216209374999,-0.795428425878906,Monoclinic,C2/m,12,relacionada,GGA,5.114825926524518,2.22260958,False,True,"['Br-', 'Cd2+', 'Se2-', 'Sb3+']",Perovskita Dupla
+mp-23586,Hg6S4Br3Cl,1.5348000000000002,False,0.001449973125,-0.6336834532142881,Monoclinic,C2/m,12,relacionada,GGA,6.390795222512097,0.03333224,False,True,"['Hg2+', 'Br-', 'S2-', 'Cl-']",Perovskita Dupla
+mp-23144,TlRe3(Se2Cl)2,1.506299999999999,False,0.001597626749994,-0.915905657020834,Triclinic,P-1,2,relacionada,GGA,7.372703486645436,2.62266809,False,True,"['Re3+', 'Se2-', 'Cl-', 'Tl+']",Perovskita Dupla
+mp-1228711,Ba10IBr4N5,1.1413,True,0.0018752705,-1.3648391155,Triclinic,P-1,2,relacionada,GGA,5.068977423447402,3.63865181,True,False,"['Br-', 'N3-', 'I-', 'Ba2+']",Perovskita Dupla
+mp-560333,Ta2Te4Br10O,1.0323,False,0.002022416029416,-1.178742606843137,Triclinic,P-1,2,relacionada,GGA,4.557288970243012,0.18215442,False,True,"['Br-', 'O2-', 'Ta4+', 'Te+']",Perovskita Dupla
+mp-1208658,TaP4(S2Cl)5,1.7349,False,0.002165460750008,-0.916784905795236,Triclinic,P-1,2,relacionada,GGA,2.257477330137427,2.11694356,True,True,"['Ta5+', 'P5+', 'S2-', 'Cl-']",Perovskita Dupla
+mp-560411,CdSb6(S2I)4,1.5565,False,0.002185447763156,-0.6163695210526311,Triclinic,P-1,2,relacionada,GGA,4.504565298794946,3.14609919,False,True,"['Cd2+', 'I-', 'S2-', 'Sb3+']",Perovskita Dupla
+mp-1206068,InBi2S4Br,1.627,False,0.00273909359375,-0.7909075052083331,Monoclinic,C2/m,12,relacionada,GGA,6.015850800610107,3.80264139,True,True,"['Br-', 'S2-', 'In3+', 'Bi3+']",Perovskita Dupla
+mp-1212237,Hg3S2BrCl,1.639,False,0.003187444464285,-0.654807934642859,Monoclinic,C2/m,12,relacionada,GGA,6.302458714371153,1.66166698,True,True,"['Hg2+', 'Br-', 'S2-', 'Cl-']",Perovskita Dupla
+mp-25440,VPO4F,1.6246,False,0.003526106428572,-2.699225726377551,Triclinic,P-1,2,relacionada,GGA+U,3.113354909842477,0.5832904800000001,True,False,"['F-', 'O2-', 'V4+', 'P5+']",Perovskita Dupla
+mp-558946,BaSbSe2F,1.334299999999999,False,0.003935190999998,-1.990805762437499,Triclinic,P-1,2,relacionada,GGA,5.008399556805891,2.02338799,False,True,"['F-', 'Se2-', 'Sb3+', 'Ba2+']",Perovskita Dupla
+mp-558108,U3Tl2(IO5)4,1.7019000000000002,True,0.004188252319742,-2.02234472954023,Triclinic,P-1,2,relacionada,GGA,6.20948883669569,2.67258879,False,True,"['I5+', 'O2-', 'U6+', 'Tl+']",Perovskita Dupla
+mp-559071,Ag2Bi2S3Cl2,1.6367999999999991,False,0.004958104166663,-0.7483002703703701,Triclinic,P-1,2,relacionada,GGA,5.894385992000153,3.01103617,False,True,"['Cl-', 'Ag+', 'S2-', 'Bi3+']",Perovskita Dupla
+mp-1227985,Ba6Br2N3Cl,1.213899999999999,True,0.005801715833334,-1.449875032916666,Monoclinic,C2/m,12,relacionada,GGA,4.898613287352413,2.40732164,True,False,"['Br-', 'N3-', 'Cl-', 'Ba2+']",Perovskita Dupla
+mp-1227976,Ba6Br2N3Cl,1.1639,False,0.005914959166667,-1.449761789583333,Monoclinic,C2/m,12,relacionada,GGA,4.910184662443371,2.433712309999999,True,False,"['Br-', 'N3-', 'Cl-', 'Ba2+']",Perovskita Dupla
+mp-1280554,Li2MnO2F,1.402699999999999,False,0.006955457916666,-2.487877149516282,Monoclinic,C2/m,12,relacionada,GGA+U,3.565177232905693,2.34647818,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
+mp-1305321,Li2MnO2F,1.7081,False,0.006985638333333,-2.487846969099616,Triclinic,P-1,2,relacionada,GGA+U,3.551196764303385,2.03579604,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
+mp-555641,Nb2Te4Cl10O,1.19,False,0.00775428648284,-1.395523864803921,Triclinic,P-1,2,relacionada,GGA,3.3667279070310743,0.54877372,False,True,"['O2-', 'Nb4+', 'Te+', 'Cl-']",Perovskita Dupla
+mp-559588,CdSbS2Br,1.528499999999999,False,0.013639586499999,-0.805227481999999,Monoclinic,C2/m,12,relacionada,GGA,4.866044489168799,2.89381817,False,True,"['Br-', 'Cd2+', 'S2-', 'Sb3+']",Perovskita Dupla
+mp-542474,Hg3S2ICl,1.4043,False,0.013921162499997,-0.571545555714288,Monoclinic,C2/m,12,relacionada,GGA,6.252543718544836,0.5448302700000001,False,True,"['Hg2+', 'I-', 'S2-', 'Cl-']",Perovskita Dupla
+mp-707735,MgH12(I4O3)2,1.3462,False,0.017065873174598,-1.004198632592592,Triclinic,P-1,2,relacionada,GGA,3.367403503955,0.57823214,False,True,"['Mg2+', 'I0.25-', 'H+', 'O2-']",Perovskita Dupla
+mp-561079,CdBiS2Br,1.729499999999999,False,0.017706848500002,-0.8601711219999991,Monoclinic,C2/m,12,relacionada,HSE06,5.939888615504158,2.66603069,False,True,"['Br-', 'Cd2+', 'S2-', 'Bi3+']",Perovskita Dupla
+mp-571169,InBi2Se4Br,1.2945,False,0.017761285312499,-0.775952893880208,Monoclinic,C2/m,12,relacionada,GGA,6.441284579897618,2.92728588,False,True,"['Br-', 'Se2-', 'In3+', 'Bi3+']",Perovskita Dupla
+mp-1193499,AgPd(IO3)3,1.4039,False,0.021416195714287,-0.736862955833334,Triclinic,P-1,2,relacionada,GGA,5.273246955781274,2.84447618,False,True,"['I5+', 'O2-', 'Ag+', 'Pd2+']",Perovskita Dupla
+mp-753723,Li2Mn2OF6,1.6309,False,0.021574763484853,-2.810989276593521,Triclinic,P-1,2,relacionada,GGA+U,3.353650797094433,-0.70441799,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
+mp-1287893,Sr2Co(ClO)2,1.4438,False,0.02247557,-2.48895589,Monoclinic,C2/m,12,relacionada,GGA+U,4.323565853674801,3.74186906,True,False,"['O2-', 'Sr2+', 'Cl-', 'Co2+']",Perovskita Dupla
+mp-758907,CrH18I7N6,1.421199999999999,False,0.022964550952144,-0.555748303671874,Monoclinic,C2/m,12,relacionada,GGA,3.180799234448315,1.10511624,False,True,"['N3-', 'Cr3+', 'I-', 'H+', 'N2-']",Perovskita Dupla
+mp-1192196,Ba7In2(Se3F4)2,1.198799999999999,True,0.025007988152175,-2.940161132060688,Monoclinic,C2/m,12,relacionada,GGA,5.184024530198335,1.90684398,False,True,"['F-', 'Se2-', 'In3+', 'Ba2+']",Perovskita Dupla
+mp-1193947,BiW2(Cl4O)2,1.6948,False,0.028032010576923,-1.495319213461538,Triclinic,P-1,2,relacionada,GGA+U,4.102511231752439,0.21167184,False,True,"['O2-', 'Bi3+', 'W5+', 'Cl-', 'W4+']",Perovskita Dupla
+mp-753282,Li2MnOF3,1.640299999999999,False,0.036803287976191,-2.797950160299671,Monoclinic,C2/m,12,relacionada,GGA,3.098306507510244,0.06262384,True,False,"['F-', 'O2-', 'Li+', 'Mn3+']",Perovskita Dupla
+mp-752885,LiVOF3,1.2917,False,0.04268190125001,-2.950073449305556,Triclinic,P-1,2,relacionada,GGA+U,3.248044024998004,-0.31257681,True,False,"['F-', 'O2-', 'V4+', 'Li+']",Perovskita Dupla
+mp-570961,CdBiSe2I,1.2705,False,0.045089096333336,-0.717463798937498,Monoclinic,C2/m,12,relacionada,GGA,6.714169991721834,2.778854029999999,False,True,"['Cd2+', 'I-', 'Se2-', 'Bi3+']",Perovskita Dupla
+mp-777497,Li2VO2F,1.093,False,0.047474720833335,-2.669965271944444,Monoclinic,C2/m,12,relacionada,GGA+U,3.45315599903498,3.14035982,True,False,"['F-', 'O2-', 'V3+', 'Li+']",Perovskita Dupla
+mp-559119,IN2O4F5,1.4687,False,0.048717000583333,-1.278778846666667,Triclinic,P-1,2,relacionada,GGA,2.808366778323176,-0.96372261,False,True,"['I5+', 'F-', 'O2-', 'N4+']",Perovskita Dupla
+mp-1226259,Cs3Ag9(SbS3)4,1.5938999999999992,False,0.0,-0.5829080383559101,Tetragonal,I-4,82,kesterita,GGA,4.873632904496218,2.56909745,True,False,"['Ag+', 'Cs+', 'S2-', 'Sb3+']",Kesterita
+mp-12532,KAg2PS4,1.2441,False,0.0,-0.7215486906532721,Tetragonal,I-42m,121,kesterita,GGA,3.6503124457238334,2.66010495,False,True,"['K+', 'Ag+', 'P5+', 'S2-']",Kesterita
+mp-1223929,InCuGeS4,1.1346,True,0.0,-0.70224098595238,Tetragonal,I-4,82,kesterita,GGA,3.927119866219554,3.81117418,True,False,"['Cu+', 'S2-', 'In3+', 'Ge4+']",Kesterita
+mp-1079645,K2CdSnSe4,1.6721,False,0.0,-1.052944497359374,Tetragonal,I-42m,121,kesterita,GGA,4.277105708118633,1.3471954,False,True,"['K+', 'Cd2+', 'Sn4+', 'Se2-']",Kesterita
+mp-568968,K2SnHgSe4,1.4785,False,0.0,-0.9497225364218752,Tetragonal,I-42m,121,kesterita,HSE06,4.890521489869919,1.36335561,False,True,"['Hg2+', 'K+', 'Sn4+', 'Se2-']",Kesterita
+mp-1228963,AlAgSnSe4,1.1072,True,0.0,-0.769702025148809,Tetragonal,I-4,82,kesterita,GGA,4.768387617941063,2.05262524,True,False,"['Sn4+', 'Ag+', 'Se2-', 'Al3+']",Kesterita
+mp-1228907,AlGa(CuS2)2,1.1429,True,0.001452938124998,-0.8295413326562511,Tetragonal,I-4,82,kesterita,GGA,3.859674066956857,5.72767135,True,False,"['Cu+', 'Ga3+', 'S2-', 'Al3+']",Kesterita
+mp-1228935,AlIn(AgS2)2,1.0686,True,0.001991401249998,-0.7298142995312501,Tetragonal,I-4,82,kesterita,GGA,4.297734585710501,2.925157549999999,True,False,"['Ag+', 'S2-', 'In3+', 'Al3+']",Kesterita
+mp-1219697,Rb3Ag9(SbS3)4,1.6418,False,0.002567341904761,-0.58056713455357,Tetragonal,I-4,82,kesterita,GGA,4.737493367464797,2.47767591,True,False,"['Rb+', 'Ag+', 'S2-', 'Sb3+']",Kesterita
+mp-1224211,K3Ag9(SbS3)4,1.625299999999999,False,0.006626980912704,-0.454317721498016,Tetragonal,I-4,82,kesterita,GGA,4.544440484270988,2.51974815,True,False,"['K+', 'Ag+', 'S2-', 'Sb3+']",Kesterita
+mp-1217996,TaCu3Se3S,1.6491,False,0.0,-0.7809892127330721,Trigonal,R3m,160,relacionada,GGA,5.846707643517421,2.81235618,True,False,"['Ta5+', 'Cu+', 'Se2-', 'S2-']",Kesterita
+mp-1215443,ZnGaPS,1.67,True,0.02351833142857,-0.712288910375745,Trigonal,R3m,160,relacionada,GGA,3.987296575491632,2.83613617,True,False,"['P3-', 'Ga3+', 'Zn2+', 'S2-']",Kesterita
+mp-6296,K6Cd4Sn3Se13,1.4058,False,0.030584630192309,-1.005795382268028,Trigonal,R3m,160,relacionada,GGA,3.14159189031428,-0.18521672,False,True,"['K+', 'Cd2+', 'Sn4+', 'Se2-']",Kesterita
+mp-1215439,ZnGaPSe,1.2159,True,0.0306990025,-0.649461883621651,Trigonal,R3m,160,relacionada,GGA,4.587516661432909,2.514194,True,False,"['P3-', 'Ga3+', 'Zn2+', 'Se2-']",Kesterita
+mp-1228699,Al4InCuS8,1.1498,False,0.034750933392849,-1.044429628095243,Trigonal,R3m,160,relacionada,GGA,3.4100488404894262,5.56364018,True,False,"['Cu+', 'S2-', 'In3+', 'Al3+']",Kesterita
