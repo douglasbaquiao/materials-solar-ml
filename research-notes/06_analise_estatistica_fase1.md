@@ -2,8 +2,7 @@
 
 **Data:** 2026-03  
 **Notebook:** `v2_eda_campos_expandidos.ipynb` — Seções 8 e 9  
-**Status:** análise inicial concluída — subconjuntos definidos, análise
-por regime e por categoria estrutural concluídas
+**Status:** análise gráfica concluída — figuras curadas para artigo
 
 ---
 
@@ -307,3 +306,180 @@ com gap acidental na janela PV, não kesteritas verdadeiras.
 Metodologia clara, decisões documentadas, resultados com interpretação
 física coerente. Pronto para análises gráficas detalhadas (Seção 9 do
 notebook) e para Fase 2 — descritores composicionais via Matminer/Magpie.
+
+---
+
+## 8. Análise Gráfica — Observações e Decisões
+
+**Data:** 2026-03  
+**Figuras geradas:** figA, fig1–fig6 (versões v2/v3)
+
+---
+
+### 8.1 Band Gap por Categoria Estrutural (boxplot horizontal)
+
+Substituiu o histograma sobreposto original — redução significativa de
+sobrecarga cognitiva mantendo toda a informação relevante.
+
+**Achados visuais confirmados:**
+- Perovskitas duplas confirmadas e relacionadas têm Q1–Q3 bem alinhados
+  com as janelas PV e IBSC — a estrutura seleciona composicionalmente
+  para gaps de interesse
+- Para kesteritas, o comportamento é **inverso**: a categoria "outra"
+  está mais alinhada às janelas PV/IBSC que a família confirmada, cujo
+  Q1 está próximo de zero
+- Esse paradoxo é um achado legítimo: a estrutura kesterita confirmada
+  tende a produzir gaps muito baixos no nível GGA, enquanto outras
+  famílias estruturais com composição similar têm gaps maiores
+- Isso levanta questão metodológica importante: as kesteritas confirmadas
+  têm menor probabilidade de erro de cálculo (estrutura mais bem
+  estabelecida), mas são justamente as que menos se alinham às janelas
+  de interesse — o que sugere que o GGA subestima especialmente essa
+  família, e a correção HSE06 é mais crítica aqui do que nas PD
+
+**Ajuste pendente:** mover `axvline` do GaAs para antes do `ax.legend()`
+para que apareça na legenda.
+
+---
+
+### 8.2 Distribuição de Band Gap — Não-metais (comparação entre famílias)
+
+Painel limpo que comunica bem a diferença fundamental entre as famílias:
+- Perovskitas duplas: distribuição aproximadamente uniforme entre 0–4 eV,
+  com leve elevação na região 1.5–2.5 eV — positivo para triagem
+- Kesteritas: concentração dominante próxima de zero, cauda longa à direita
+
+**Decisão:** este painel substitui o gráfico original de distribuição.
+O painel B (perovskitas com janelas) foi descartado por não acrescentar
+informação além do painel A. As janelas de triagem estão representadas
+nos demais gráficos.
+
+---
+
+### 8.3 Estabilidade Termodinâmica
+
+Versão com escala log e barra separada para hull=0 resolve o problema
+de leitura da versão anterior (hull=0 sumia na escala log mas aparecia
+apenas como anotação textual, criando inconsistência).
+
+**Achados confirmados visualmente:**
+- Perovskitas duplas: decaimento exponencial claro após hull=0, com
+  cauda longa até >6 eV — espaço composicional diverso inclui muitos
+  compostos muito instáveis
+- Kesteritas: distribuição mais concentrada (máximo ~1 eV), confirmando
+  família mais termodinamicamente controlada
+- O corte em 0.05 eV/átomo é visualmente justificado em ambos os casos:
+  está logo após a região de maior densidade, capturando o núcleo estável
+  sem ser excessivamente restritivo
+
+---
+
+### 8.4 Energia de Formação vs. Band Gap
+
+Versão v3 com três categorias discretas de estabilidade (estável,
+quasi, instável) é mais legível que o gradiente contínuo original.
+
+**Achado principal:** ausência de correlação entre gap e formação —
+a nuvem de pontos é vertical sem inclinação sistemática. Isso confirma
+que gap e estabilidade são propriedades razoavelmente independentes
+nessas famílias. Não há tradeoff sistemático entre ter gap interessante
+e ser sintetizável — resultado positivo para triagem.
+
+**Ajuste aplicado:** remoção das anotações de fórmula nas kesteritas
+(sobrepunham sem adicionar informação com n pequeno); tamanho de ponto
+aumentado para kesteritas para compensar o n menor.
+
+---
+
+### 8.5 Sistema Cristalino (barras empilhadas)
+
+Versão v2 com barras empilhadas (quasi-estável vs instável) adiciona
+dimensão de estabilidade sem sobrecarga visual.
+
+**Achados:**
+- Dominância cúbica nas PD (1641/2719, ~60%) confirma que Fm-3m é
+  de fato o estado estrutural mais comum — valida retrospectivamente
+  a escolha desse grupo como canônico principal
+- Segunda maior categoria: triclínico (383) — inesperadamente alto.
+  Estruturas triclínicas têm simetria mínima; concentração elevada
+  pode indicar estruturas distorcidas identificadas como triclínicas
+  por questões de convergência de cálculo, não necessariamente
+  estruturas reais de baixa simetria. Ponto a investigar na Fase 4
+- Kesteritas: tetragonal (147) e trigonal (87) dominam, consistente
+  com grupos espaciais I-4 e R3m definidos como canônicos
+
+---
+
+### 8.6 Nível de Fermi por Regime de Cálculo
+
+**Achados:**
+- GGA e GGA+U têm distribuições visualmente similares nas PD, com médias
+  próximas — reforça o viés composicional já documentado: não é que o
+  funcional produza resultados iguais, é que os materiais que recebem
+  cada funcional são composicionalmente distintos
+- Linhas de média adicionadas para tornar diferenças sutis legíveis
+- HSE06 removido das kesteritas (n=5 — irrelevante estatisticamente
+  e gerava picos verticais que poluíam a leitura)
+- A diferença sistemática de ~3 eV no efermi médio entre famílias
+  (PD ~0 eV, K ~4 eV) é fisicamente real e reflete estruturas
+  eletrônicas distintas — não comparável entre famílias
+
+---
+
+### 8.7 Mapa de Correlação de Pearson — Análise comparativa
+
+Este é o gráfico com maior potencial de contribuição científica.
+Diferenças entre famílias revelam física distinta:
+
+**Gap e densidade:**
+- PD: -0.11 (quase nulo) — diversidade composicional dilui tendências
+- K: -0.39 (moderada) — materiais mais densos têm gap menor.
+  Interpretação: calcogenetos e metais mais pesados aumentam densidade
+  e reduzem gap por maior overlap orbital
+
+**Volume e energia de formação:**
+- PD: +0.45 (moderada positiva) — contraintuitivo: células maiores
+  têm formação menos negativa. Sugere que nas PD, células grandes
+  correspondem a compostos com estruturas distorcidas ou elementos
+  pesados termodinamicamente menos favoráveis
+- K: -0.20 (fraca negativa) — comportamento mais esperado
+
+**Nsites × volume nas kesteritas: 0.91**
+Correlação quase perfeita — nsites e volume são redundantes como
+features para kesteritas. Na Fase 3, usar apenas site_density
+(que combina ambos) evita colinearidade no modelo de ML.
+Nas PD: 0.66 — alta mas não dominante, indicando maior variação
+de densidade atômica entre compostos de mesmo tamanho de célula.
+
+**Efermi × site_density:**
+- PD: 0.14 (nulo) — sem relação estrutura-eletrônica clara
+- K: 0.52 (moderada) — estruturas mais compactas têm Fermi mais alto.
+  Interpretação: maior confinamento eletrônico em células menores
+  eleva a energia dos estados eletrônicos
+
+**Efermi × density nas kesteritas: -0.44**
+Correlação negativa moderada — materiais mais densos têm Fermi mais
+baixo. Combinada com density×gap (-0.39), sugere cadeia física:
+maior densidade → gap menor E Fermi menor → comportamento mais metálico.
+Essa cadeia não existe nas PD.
+
+**Implicação para Fase 2 (descritores):**
+- Evitar nsites E volume simultaneamente nas kesteritas (colinear)
+- Densidade é feature mais informativa para kesteritas que para PD
+- Efermi pode ser feature útil para kesteritas (correlações moderadas
+  com gap, density e site_density) mas pouco útil para PD
+
+---
+
+### 8.8 Decisões de curadoria de figuras para o artigo
+
+| Figura | Versão | Status |
+|---|---|---|
+| Band gap por categoria estrutural | Boxplot horizontal v2 | Pronto (ajuste menor na legenda) |
+| Distribuição gap não-metais | Painel comparação famílias | Pronto |
+| Distribuição gap com janelas PD | Painel B | Descartado |
+| Estabilidade termodinâmica | v3 com barra hull=0 + log | Pronto |
+| Energia formação vs. gap | v3 cores discretas | Pronto |
+| Sistema cristalino | v2 barras empilhadas | Código gerado, aguarda execução |
+| Nível de Fermi | v2 com médias + sem HSE06 K | Código gerado, aguarda execução |
+| Correlações | Atual | Pronto — discussão documentada acima |
