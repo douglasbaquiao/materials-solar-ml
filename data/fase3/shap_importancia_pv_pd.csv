@@ -1,0 +1,98 @@
+feature,feature_abrev,mean_abs_shap,shap_positivo
+MagpieData mean NValence,mean NValence,0.01959791548939831,0.20238095238095238
+MagpieData avg_dev Column,avg_dev Column,0.018653705247062797,0.2435064935064935
+MagpieData mean Column,mean Column,0.017251502281050674,0.32575757575757575
+MagpieData avg_dev SpaceGroupNumber,avg_dev SpaceGroupNumber,0.01666830144575795,0.2727272727272727
+MagpieData avg_dev NUnfilled,avg_dev NUnfilled,0.01619652489419065,0.4805194805194805
+MagpieData mean SpaceGroupNumber,mean SpaceGroupNumber,0.01379301690859146,0.1266233766233766
+MagpieData mean Electronegativity,mean Electronegativity,0.01238495120457643,0.32575757575757575
+MagpieData maximum NdUnfilled,maximum NdUnfilled,0.012021504106695356,0.7218614718614719
+MagpieData maximum NUnfilled,maximum NUnfilled,0.01107239334988822,0.5887445887445888
+MagpieData mean MendeleevNumber,mean MendeleevNumber,0.0110658516596258,0.38852813852813856
+MagpieData avg_dev MendeleevNumber,avg_dev MendeleevNumber,0.010957396256348787,0.37012987012987014
+MagpieData avg_dev CovalentRadius,avg_dev CovalentRadius,0.010738709662120184,0.4274891774891775
+MagpieData mean Number,mean Number,0.009750836480364034,0.31493506493506496
+MagpieData mean NdUnfilled,mean NdUnfilled,0.009717475467146176,0.6147186147186147
+MagpieData mean NdValence,mean NdValence,0.009505561241651432,0.4090909090909091
+MagpieData avg_dev Electronegativity,avg_dev Electronegativity,0.009305063203438517,0.30844155844155846
+MagpieData avg_dev NValence,avg_dev NValence,0.008802204800623499,0.23484848484848486
+MagpieData mean NUnfilled,mean NUnfilled,0.00828264396962725,0.37445887445887444
+MagpieData mean MeltingT,mean MeltingT,0.008214494281084051,0.41774891774891776
+MagpieData maximum NValence,maximum NValence,0.008189823454273396,0.2002164502164502
+MagpieData avg_dev Number,avg_dev Number,0.0072545007350043106,0.16883116883116883
+MagpieData mean CovalentRadius,mean CovalentRadius,0.007089240611362652,0.27380952380952384
+efermi,efermi,0.006806428989710333,0.36904761904761907
+MagpieData minimum GSvolume_pa,minimum GSvolume_pa,0.006632377087628409,0.22943722943722944
+density,density,0.006433125253977332,0.15584415584415584
+MagpieData avg_dev NdValence,avg_dev NdValence,0.006405081085308408,0.37012987012987014
+MagpieData maximum SpaceGroupNumber,maximum SpaceGroupNumber,0.0063263248774583485,0.14935064935064934
+MagpieData mean NfValence,mean NfValence,0.006263244710306823,0.12987012987012986
+MagpieData avg_dev NpValence,avg_dev NpValence,0.006177310438208187,0.17207792207792208
+MagpieData maximum MeltingT,maximum MeltingT,0.0061008303552704,0.26731601731601734
+site_density,site_density,0.005950377440003634,0.3041125541125541
+MagpieData mean NpUnfilled,mean NpUnfilled,0.005365794956499886,0.17532467532467533
+nsites,nsites,0.005280018890620169,0.07251082251082251
+MagpieData avg_dev Row,avg_dev Row,0.005244163290700855,0.33225108225108224
+MagpieData maximum Number,maximum Number,0.004961910391157603,0.2727272727272727
+MagpieData range Number,range Number,0.004905938739214562,0.4264069264069264
+MagpieData avg_dev MeltingT,avg_dev MeltingT,0.004662588862978193,0.25865800865800864
+MagpieData mode Number,mode Number,0.004246546809541493,0.4675324675324675
+MagpieData range Electronegativity,range Electronegativity,0.004103910732375854,0.23484848484848486
+MagpieData range SpaceGroupNumber,range SpaceGroupNumber,0.004084043482636101,0.49783549783549785
+MagpieData avg_dev GSvolume_pa,avg_dev GSvolume_pa,0.003990522415140457,0.1937229437229437
+MagpieData mean GSvolume_pa,mean GSvolume_pa,0.003671946514245338,0.18722943722943722
+volume,volume,0.003543653454433976,0.17207792207792208
+MagpieData avg_dev NpUnfilled,avg_dev NpUnfilled,0.0032287168323781664,0.24458874458874458
+MagpieData mean NpValence,mean NpValence,0.003161010980828932,0.3365800865800866
+MagpieData mean NfUnfilled,mean NfUnfilled,0.003153807630532259,0.816017316017316
+MagpieData range CovalentRadius,range CovalentRadius,0.0029516851216790517,0.31277056277056275
+MagpieData mean NsValence,mean NsValence,0.0029204381209367485,0.27056277056277056
+MagpieData maximum Electronegativity,maximum Electronegativity,0.002872407688277088,0.3852813852813853
+MagpieData range NdValence,range NdValence,0.0028348405714540546,0.1645021645021645
+MagpieData mode MeltingT,mode MeltingT,0.0027644643036356,0.3658008658008658
+MagpieData minimum MendeleevNumber,minimum MendeleevNumber,0.002673675540338583,0.26082251082251084
+MagpieData maximum NdValence,maximum NdValence,0.002571230403503824,0.1406926406926407
+MagpieData minimum Column,minimum Column,0.0025350606486322876,0.23593073593073594
+MagpieData maximum NfUnfilled,maximum NfUnfilled,0.002499656873857258,0.8170995670995671
+MagpieData avg_dev GSbandgap,avg_dev GSbandgap,0.0024474526491329485,0.22077922077922077
+MagpieData maximum NpUnfilled,maximum NpUnfilled,0.0023373693807245822,0.3538961038961039
+MagpieData mean GSbandgap,mean GSbandgap,0.0022980760476913565,0.2662337662337662
+MagpieData minimum NValence,minimum NValence,0.002238908461125081,0.19047619047619047
+MagpieData mode Electronegativity,mode Electronegativity,0.0022136167348851526,0.4675324675324675
+MagpieData minimum NsValence,minimum NsValence,0.0021770691634984073,0.2564935064935065
+MagpieData minimum Number,minimum Number,0.0020851644619230003,0.2132034632034632
+MagpieData maximum CovalentRadius,maximum CovalentRadius,0.002071641717304255,0.2196969696969697
+MagpieData maximum NsUnfilled,maximum NsUnfilled,0.002067088718531734,0.237012987012987
+MagpieData maximum NfValence,maximum NfValence,0.0016891195478818018,0.47294372294372294
+MagpieData range Row,range Row,0.0015985391983021249,0.29545454545454547
+gap_direto,gap_direto,0.00154415594488057,0.262987012987013
+MagpieData maximum GSvolume_pa,maximum GSvolume_pa,0.0014518306656930858,0.1893939393939394
+MagpieData mode SpaceGroupNumber,mode SpaceGroupNumber,0.0013912952864439249,0.4383116883116883
+MagpieData minimum MeltingT,minimum MeltingT,0.001169494024407409,0.3852813852813853
+MagpieData mode GSbandgap,mode GSbandgap,0.0011162345446141392,0.22943722943722944
+MagpieData mode MendeleevNumber,mode MendeleevNumber,0.0009588951183578151,0.48484848484848486
+MagpieData minimum Row,minimum Row,0.0008987359104866535,0.35173160173160173
+MagpieData minimum SpaceGroupNumber,minimum SpaceGroupNumber,0.0008949800596377275,0.3852813852813853
+MagpieData mode NValence,mode NValence,0.0008735219922231415,0.5898268398268398
+MagpieData mean GSmagmom,mean GSmagmom,0.0008387866243230147,0.5487012987012987
+MagpieData maximum GSbandgap,maximum GSbandgap,0.0007655520053039952,0.2554112554112554
+MagpieData maximum GSmagmom,maximum GSmagmom,0.0006951828080867432,0.20238095238095238
+MagpieData maximum MendeleevNumber,maximum MendeleevNumber,0.0006127216638330351,0.31493506493506496
+regime_GGAU,regime_GGAU,0.0005201017847490855,0.21212121212121213
+MagpieData maximum Row,maximum Row,0.00046302154532336083,0.3398268398268398
+regime_GGA,regime_GGA,0.00042867771880940173,0.22943722943722944
+MagpieData mode Column,mode Column,0.0003569584990368754,0.23160173160173161
+MagpieData mode NdValence,mode NdValence,0.0002749561077553953,0.24675324675324675
+MagpieData mode NpUnfilled,mode NpUnfilled,0.0001966407824112162,0.3225108225108225
+MagpieData mode NUnfilled,mode NUnfilled,0.00017136957131635609,0.5162337662337663
+MagpieData minimum NUnfilled,minimum NUnfilled,0.00013982744617644415,0.11904761904761904
+MagpieData mode NsUnfilled,mode NsUnfilled,9.906298017469076e-05,0.027056277056277056
+MagpieData minimum NpValence,minimum NpValence,7.508691367670335e-05,0.9675324675324676
+MagpieData mode NsValence,mode NsValence,6.646117044115908e-05,0.9361471861471862
+MagpieData minimum NpUnfilled,minimum NpUnfilled,3.916509621331368e-05,0.09523809523809523
+regime_HSE06,regime_HSE06,2.259485081399018e-06,0.016233766233766232
+MagpieData maximum Column,maximum Column,0.0,0.0
+MagpieData minimum NdValence,minimum NdValence,0.0,0.0
+MagpieData mode NfValence,mode NfValence,0.0,0.0
+MagpieData minimum GSbandgap,minimum GSbandgap,0.0,0.0
+MagpieData mode NfUnfilled,mode NfUnfilled,0.0,0.0
